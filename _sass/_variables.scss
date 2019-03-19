@@ -29,9 +29,9 @@ $teal:    #20c997 !default;
 $cyan:    #6CC3D5 !default;
 
 $primary:       #78C2AD !default;
-$secondary:     #F3969A !default;
+$secondary:     $cyan  !default;
 $success:       $green !default;
-$info:          $cyan !default;
+$info:          #F3969A !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
 $light:         $gray-100 !default;
