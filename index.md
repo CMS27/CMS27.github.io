@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Clément Mazet-Sonilhac
+title: 
 ---
 
 ## Presentation
