@@ -1,7 +1,18 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: Clément Mazet-Sonilhac
 ---
+
+## Presentation
+
+* I'm Phd candidate at `SciencesPo, Paris`. I am currently writing my thesis under the supervision of [**Thomas Chaney**](https://sites.google.com/site/thomaschaney/"). 
+
+* Research economist at `Banque de France`.
+	
+## Research
+
+My research is in Microeconomics; I am particularly interested in firm dynamics, international trade and networks. [Learn more about my research.](/research)
+
 
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
