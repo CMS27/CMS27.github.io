@@ -5,9 +5,9 @@ title:
 
 ## Presentation
 
-Phd candidate at `SciencesPo, Paris`. I am currently writing my thesis under the supervision of [**Thomas Chaney**](https://sites.google.com/site/thomaschaney/").  
+Phd candidate at **`SciencesPo, Paris`**. I am currently writing my thesis under the supervision of [**Thomas Chaney**](https://sites.google.com/site/thomaschaney/").  
 
-Research economist at `Banque de France`.
+Research economist at **`Banque de France`**.
 	
 ## Research
 
