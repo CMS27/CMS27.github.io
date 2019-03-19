@@ -9,14 +9,22 @@
 			<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 		</head>
 		<body>
-			<nav>
-	    		<ul>
-				<li><a href="/">Home</a></li>
+			
+			 <nav class="navbar navbar-inverse navbar-fixed-top">
+  			<div class="container-fluid">
+    			<div class="navbar-header">
+      			<a class="navbar-brand" href="#">WebSiteName</a>
+    			</div>
+    			<ul class="nav navbar-nav">
+   
+				<li class="active"><a href="/">Home</a></li>
 	        		<li><a href="/research">Research</a></li>
                                 <li><a href="/teaching">Teaching</a></li>
 				<li><a href="/cv">CV</a></li>
-	    		</ul>
-			</nav>
+    			</ul>
+  			</div>
+			</nav> 
+
 			<div class="container">
 			
 			{{ content }}
