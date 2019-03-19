@@ -15,7 +15,7 @@ My research is in Microeconomics; I am particularly interested in firm dynamics,
 
 ## Contact
 
-Clément Mazet-Sonilhac
-Banque de France, DGEI
+Clément Mazet-Sonilhac  
+Banque de France, DGEI  
 75049 Paris Cedex 01
 
