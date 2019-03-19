@@ -2,8 +2,8 @@
 layout: page
 title: 
 ---
-<div class="blurb">
-  <h1> Working papers </h1>
+
+Working papers 
 	<h3> Technology-Induced Trade Shocks ? Evidence from Broadband Internet Expansion in France <small>  with  Clément Malgouyres,  Thierry Mayer and Juan Carluccio </small>  </h3> 
 	
 	
