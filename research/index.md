@@ -5,7 +5,7 @@ title:
 
 # Work in progress
 
-#### Information Frictions on the Local Credit Market <small class="text-muted"> JMP, draft coming soon </small>
+#### Information Frictions on the Local Credit Market <small class="text-muted"> (JMP), draft coming soon </small>
 
 # Working papers
 
