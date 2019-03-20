@@ -5,8 +5,8 @@ title: Teaching
 
 ## Introduction to Programming (2019) <small> - Lecturer </small>
 
-Sciences Po, Paris, Master in Economics. 
-[Course material]("https://github.com/CMS27/IP2019")
+Sciences Po, Paris, Master in Economics.  
+[Course material](https://github.com/CMS27/IP2019)
 
 ## Micro & Macro (2017-2018) <small> - Lecturer </small>
 
