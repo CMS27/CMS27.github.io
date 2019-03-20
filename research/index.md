@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
 
-# Work in progress
+## Work in progress
 
 <br/>
 
@@ -11,7 +11,7 @@ title:
 
 <br/> 
 
-# Working papers
+## Working papers
 
 <br/>
 
@@ -31,7 +31,7 @@ title:
 
 <br>
 
-# Other
+## Other
 
 <br>
 
