@@ -5,7 +5,7 @@ title: Clément Mazet-Sonilhac
 
 ## Presentation
 
-Phd candidate at <span class="text-success">**SciencesPo, Paris**</span>. I am currently writing my thesis under the supervision of [Thomas Chaney](https://sites.google.com/site/thomaschaney/).  
+Phd candidate at <span class="text-success" style="font-family:Georgia;">**SciencesPo, Paris**</span>. I am currently writing my thesis under the supervision of [Thomas Chaney](https://sites.google.com/site/thomaschaney/).  
 Research economist at **Banque de France**.
 	
 ## Research
