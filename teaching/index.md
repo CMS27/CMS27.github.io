@@ -11,9 +11,9 @@ SciencesPo, Paris, Master in Economics.
 #### Micro & Macro (2017-2018) <small class="text-muted"> - Teaching Assistant </small>
 
 Ecole Centrale Paris, 2nd year  
-__Prof__: [Pascal da Costa](https://scholar.google.fr/citations?user=TVsjYcRrvDEC&hl=fr)
+_Prof_: [Pascal da Costa](https://scholar.google.fr/citations?user=TVsjYcRrvDEC&hl=fr)
 
 #### Evaluation of Public Policies (2017-2018) <small class="text-muted"> - Teaching Assistant </small>
 
 SciencesPo, Paris, Master in Public Policy.   
-__Prof__: [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/)
+_Prof_: [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/)
