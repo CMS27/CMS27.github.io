@@ -6,7 +6,7 @@ title: Teaching
 #### Introduction to Programming (2019) <small class="text-muted"> - Lecturer </small>
 
 SciencesPo, Paris, Master in Economics.  
-[Course material](https://github.com/CMS27/IP2019)
+<a href="https://github.com/CMS27/IP2019/tree/master/Lectures" class = "btn btn-outline-warning btn-sm" role = "button"> Slides </a> <a href="https://github.com/CMS27/IP2019/tree/master/R/r-novice-inflammation-data/data" class = "btn btn-outline-success btn-sm" role = "button"> Data </a> <a href="https://www.sciencespo.fr/ecole-doctorale/sites/sciencespo.fr.ecole-doctorale/files/Programming_Course_C-Mazet.pdf" class = "btn btn-outline-danger btn-sm" role = "button"> Syllabus </a>
 
 #### Micro & Macro (2017-2018) <small class="text-muted"> - Teaching Assistant </small>
 
