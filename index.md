@@ -15,7 +15,7 @@ My research is in Microeconomics; I am particularly interested in firm dynamics,
 
 ## Contact
 
-[clement.mazet[at]sciencespo.fr](mailto:clement.mazet@sciencespo.fr)
+[clement [dot] mazet [at] sciencespo [dot] fr](mailto:clement.mazet@sciencespo.fr)  
 Banque de France, DGEI  
 75049 Paris Cedex 01
 
