@@ -35,7 +35,7 @@ title:
 
 <br>
 
-#### Political Uncertainty, Risk of Frexit and European Sovereign Spreads <small class="text-muted"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/). **Applied Economic Letters (2018)**  </small> 
+#### Political Uncertainty, Risk of Frexit and European Sovereign Spreads <small class="text-muted"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/). **Applied Economics Letters (2018)**  </small> 
 
 **Abstract** : *In this short note, we use data from a prediction market (crowd-based forecasts) to build a daily measure capturing the risk of Frexit related to the 2017 French presidential elections. We show that political uncertainty drives not only the French sovereign spread but also the spreads of those EU countries deemed the most vulnerable to the risk of desegregation of the Euro Zone. These results suggest that specific political uncertainty affects short-term investor’s expectations and may outweigh other economic determinants of sovereign spreads shortly prior to high stake elections*    
 		
