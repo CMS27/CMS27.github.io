@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-#### Introduction to Programming (2019) <small class="text-muted"> - Lecturer </small>
+#### Introduction to Programming (2019 & 2020) <small class="text-muted"> - Lecturer </small>
 
 SciencesPo, Paris, Master in Economics.    
 
