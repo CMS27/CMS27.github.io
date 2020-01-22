@@ -9,6 +9,11 @@ SciencesPo, Paris, Master in Economics.
 
 <a href="https://github.com/CMS27/IP2019/tree/master/Lectures" class = "btn btn-outline-warning btn-sm" role = "button"> Slides </a> <a href="https://github.com/CMS27/IP2019/tree/master/R/r-novice-inflammation-data/data" class = "btn btn-outline-success btn-sm" role = "button"> Data </a> <a href="https://www.sciencespo.fr/ecole-doctorale/sites/sciencespo.fr.ecole-doctorale/files/Programming_Course_C-Mazet.pdf" class = "btn btn-outline-danger btn-sm" role = "button"> Syllabus </a>
 
+#### Growth Theory (2017-2018) <small class="text-muted"> - Teaching Assistant </small>
+
+Ecole Centrale Paris, 2nd year  
+_Prof_: [Mehdi Senouci](https://ideas.repec.org/f/pse343.html)
+
 #### Micro & Macro (2017-2018) <small class="text-muted"> - Teaching Assistant </small>
 
 Ecole Centrale Paris, 2nd year  
