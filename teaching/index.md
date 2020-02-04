@@ -8,6 +8,9 @@ title: Teaching
 
 SciencesPo, Paris, Master in Economics (2nd year).   
 
+<a href="https://scpo-compecon.github.io/CoursePack/" class = "btn btn-outline-warning btn-sm" role = "button"> Course Website </a>
+<a href="https://github.com/CMS27/CoursePack" class = "btn btn-outline-success btn-sm" role = "button"> Notebooks </a>
+
 #### Introduction to Programming (2019 & 2020) <small class="text-muted"> - Lecturer </small>
 
 SciencesPo, Paris, Master in Economics (1st year).    
