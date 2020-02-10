@@ -3,8 +3,6 @@ layout: page
 title: Clément Mazet-Sonilhac
 ---
 
-![alt text](test.jpg)
-
 #### Presentation
 
 Hello ! My name is Clément Mazet-Sonilhac.
