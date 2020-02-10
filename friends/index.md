@@ -1,7 +1,6 @@
-
 ---
 layout: page
 title: 
 ---
 
-## Some goo friends:
+## Some good friends:
