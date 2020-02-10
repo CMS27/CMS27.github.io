@@ -6,7 +6,9 @@ title: Clément Mazet-Sonilhac
 #### Presentation
 
 Hello ! My name is Clément Mazet-Sonilhac.
+
 I'm a PhD. candidate at [SciencesPo, Paris](http://econ.sciences-po.fr/faculty-permanent-faculty). I am currently writing my thesis under the supervision of [Thomas Chaney](https://sites.google.com/site/thomaschaney/).  
+
 Research economist at [Banque de France](https://www.banque-france.fr/en/page-sommaire/research).
 	
 #### Research
