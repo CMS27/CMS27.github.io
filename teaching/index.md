@@ -15,7 +15,7 @@ SciencesPo, Paris, Master in Economics (2nd year).
 
 SciencesPo, Paris, Master in Economics (1st year).    
 
-<a href="https://github.com/CMS27/IP2019/tree/master/Lectures" class = "btn btn-outline-warning btn-sm" role = "button"> Slides </a> <a href="https://github.com/CMS27/IP2019/tree/master/R/r-novice-inflammation-data/data" class = "btn btn-outline-success btn-sm" role = "button"> Data R </a> <a href="http://swcarpentry.github.io/shell-novice/data/data-shell.zip" class="btn btn-outline-success btn-sm" role = "button"> Data Shell </a> <a href="https://www.sciencespo.fr/ecole-doctorale/sites/sciencespo.fr.ecole-doctorale/files/Programming_Course_C-Mazet.pdf" class = "btn btn-outline-danger btn-sm" role = "button"> Syllabus </a> 
+<a href="https://github.com/CMS27/IP2019/tree/master/Lectures" class = "btn btn-outline-warning btn-sm" role = "button"> Slides </a> <a href="https://github.com/CMS27/IP2019/tree/master/R/r-novice-inflammation-data/data" class = "btn btn-outline-success btn-sm" role = "button"> Data R </a> <a href="http://swcarpentry.github.io/shell-novice/data/data-shell.zip" class="btn btn-outline-success btn-sm" role = "button"> Data Shell </a> <a href="https://github.com/CMS27/IP2019/blob/master/data-shell/hidden_sol/solutions_ex_UNIX_shell.sh" class = "btn btn-outline-danger btn-sm" role = "button"> Shell Solutions </a> <a href="https://www.sciencespo.fr/ecole-doctorale/sites/sciencespo.fr.ecole-doctorale/files/Programming_Course_C-Mazet.pdf" class = "btn btn-outline-danger btn-sm" role = "button"> Syllabus </a> 
 
 #### Growth Theory (2019-2020) <small class="text-muted"> - Teaching Assistant </small>
 
