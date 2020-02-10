@@ -7,7 +7,7 @@ title:
 
 <br/>
 
-**Information Frictions in Credit Markets** <small class="text-muted"> (JMP) - Draft coming soon </small>
+**Information Frictions in Credit Markets** <class="text-muted"> (JMP) - Draft coming soon </>
 
 <br/> 
 
