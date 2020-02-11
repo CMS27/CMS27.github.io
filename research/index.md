@@ -29,7 +29,7 @@ title:
 
 <br/>
 
-**Investment and the WACC: Firm-Level Evidence from France** <small class="text-muted"> with [Juan Carluccio](http://juancarluccio.com/) and [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) </small>  <a href="https://publications.banque-france.fr/sites/default/files/medias/documents/wp710.pdf" class = "btn btn-outline-success btn-sm" role = "button">  BdF Working Paper </a>  
+**Investment and the WACC: Firm-Level Evidence from France** <span style="color: gray;"> with [Juan Carluccio](http://juancarluccio.com/) and [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) </span>  <a href="https://publications.banque-france.fr/sites/default/files/medias/documents/wp710.pdf" class = "btn btn-outline-success btn-sm" role = "button">  BdF Working Paper </a>  
 
 <br>
 
