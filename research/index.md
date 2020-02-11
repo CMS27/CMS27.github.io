@@ -23,10 +23,6 @@ title:
 # <small> **Abstract** : *In this paper, we test for the presence of “technology-induced” trade in France between 2000 and 2007 and assess its impact on consumer welfare. We use the staggered roll-out of broadband internet to estimate its causal impact on the importing behavior of firms. Using an event-study design, we find that broadband expansion increases imports. Our estimates imply that the increase in the value of imports in the absence of broadband expansion would have been a 15% lower. We further find that the sub-extensive margin (number of products and sourcing country per firm) is the main margin of adjustment and that the impact is higher for capital goods. Finally, we develop a firm-based model of importing and adopt a sufficient statistics approach in order to quantify the contribution of the import-channel to the overall effect of broadband on consumer welfare. Within this model, our reduced-form estimates imply that broadband internet reduced the consumer price index by 1.7% and that the import-channel accounts for a quarter of that effect.* </small> 
 -->
 
-
-
-<br/>
-
 **"Investment and the WACC: Firm-Level Evidence from France"** <span style="color: gray;"> with [Juan Carluccio](http://juancarluccio.com/) and [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) </span>  
 
 <a href="https://publications.banque-france.fr/sites/default/files/medias/documents/wp710.pdf" class = "btn btn-outline-success btn-sm" role = "button">  BdF Working Paper </a>  
