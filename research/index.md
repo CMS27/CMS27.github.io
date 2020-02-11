@@ -8,7 +8,7 @@ title:
 
 <!--- <br/> -->
 
-**"Information Frictions in Credit Markets"** <span style="color: gray;"> (JMP) - Draft coming soon </span> 
+**"Information Frictions in Credit Markets"** <span style="color: gray;"> Draft coming soon ! </span> 
 
 
 ### Working papers
