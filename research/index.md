@@ -9,8 +9,6 @@ title:
 
 **Information Frictions in Credit Markets** <span style="color: gray;"> (JMP) - Draft coming soon </span>
 
-<br/> 
-
 ---------------------------------------------------------------------------------------------------------------------
 
 ### Working papers
@@ -32,9 +30,6 @@ title:
 **Investment and the WACC: Firm-Level Evidence from France** <span style="color: gray;"> with [Juan Carluccio](http://juancarluccio.com/) and [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) </span>  
 
 <a href="https://publications.banque-france.fr/sites/default/files/medias/documents/wp710.pdf" class = "btn btn-outline-success btn-sm" role = "button">  BdF Working Paper </a>  
-
-<br>
-
 
 ---------------------------------------------------------------------------------------------------------------------
 
