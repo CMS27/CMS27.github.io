@@ -5,15 +5,13 @@ title:
 
 ### Work in progress
 
-<br/>
+<!--- <br/> -->
 
 **"Information Frictions in Credit Markets"** <span style="color: gray;"> (JMP) - Draft coming soon </span>
 
 ---------------------------------------------------------------------------------------------------------------------
 
 ### Working papers
-
-<br/>
 
 **"Technology-Induced Trade Shocks ? Evidence from Broadband Internet Expansion in France"** <span style="color: gray;"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Thierry Mayer](https://sites.google.com/site/thierrymayer/home).  **R&R at Journal of International Economics** </span>
 
@@ -30,8 +28,6 @@ title:
 ---------------------------------------------------------------------------------------------------------------------
 
 ### Other
-
-<br>
 
 **"Political Uncertainty, Risk of Frexit and European Sovereign Spreads"** <span style="color: gray;"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/). **Applied Economics Letters (2018)**  </span>  
 
