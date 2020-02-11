@@ -22,6 +22,9 @@ title:
 
 **"Investment and the WACC: Firm-Level Evidence from France"** <span style="color: gray;"> with [Juan Carluccio](http://juancarluccio.com/) and [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) </span>  
 
+<span style="color: gray;"> **Abstract** : *We exploit a new dataset of consolidated balance sheets for some 1,850 private
+French corporate groups, in order to investigate the relationship between corporate investment and the cost of capital. We notably construct firm-level measures of the weighted average cost of capital (WACC) that account for industry-specific values of the cost of equity and reflect the actual capital structure of firms. We find that a high WACC drags down investment: a one SD increase in the real WACC (+2 pp) is associated on average with a reduction by 0.65 pp in the investment rate.* </span>
+
 <a href="https://publications.banque-france.fr/sites/default/files/medias/documents/wp710.pdf" class = "btn btn-outline-success btn-sm" role = "button">  BdF Working Paper </a>  
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -29,5 +32,7 @@ title:
 ### Other
 
 **"Political Uncertainty, Risk of Frexit and European Sovereign Spreads"** <span style="color: gray;"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/). **Applied Economics Letters (2018)**  </span>  
+
+<span style="color: gray;"> **Abstract** : *Using data from a prediction market (crowd-based forecasts), we build a daily measure capturing the risk of Frexit related to the 2017 French presidential elections. We study how unexpected changes in this new measure of political uncertainty in France affect European sovereign spreads vis-à-vis Germany. We show that our uncertainty proxy drives not only the French sovereign spread but also the spreads of those EU countries deemed the most vulnerable to the risk of desegregation of the Euro Zone. These results suggest that specific political uncertainty affects short-term investors expectations and may outweigh other economic determinants of sovereign spreads shortly prior to high stake elections* </span>
 
 <a href="https://www.tandfonline.com/doi/abs/10.1080/13504851.2017.1391991" class = "btn btn-outline-success btn-sm" role = "button">  Paper </a>  <a href="https://blog.hypermind.com/2018/03/09/political-uncertainty-risk-of-frexit-and-european-sovereign-spreads/" class = "btn btn-outline-danger btn-sm" role = "button"> Blog post </a> 
