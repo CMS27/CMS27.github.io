@@ -17,7 +17,7 @@ title:
 
 <br/>
 
-**Technology-Induced Trade Shocks ? Evidence from Broadband Internet Expansion in France** <span style="color: gray;"> with **[Clément Malgouyres]**(https://sites.google.com/site/clementmalgouyres/) and [Thierry Mayer](https://sites.google.com/site/thierrymayer/home).  **R&R at Journal of International Economics** </span>
+**Technology-Induced Trade Shocks ? Evidence from Broadband Internet Expansion in France** <span style="color: gray;"> with [**Clément Malgouyres**](https://sites.google.com/site/clementmalgouyres/) and [Thierry Mayer](https://sites.google.com/site/thierrymayer/home).  **R&R at Journal of International Economics** </span>
 
 <a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13847" class = "btn btn-outline-success btn-sm" role = "button"> CEPR Working Paper </a> <a href="https://publications.banque-france.fr/en/technology-induced-trade-shocks-evidence-broadband-expansion-france" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a> <a href="https://blocnotesdeleco.banque-france.fr/en/blog-entry/broadband-internet-changes-geography-international-trade" class = "btn btn-outline-danger btn-sm" role = "button"> BdF's blog post </a>
 	
