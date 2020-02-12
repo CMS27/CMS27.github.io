@@ -27,7 +27,7 @@ title:
 <span style="color: gray;"> **Abstract** : *We exploit a new dataset of consolidated balance sheets for some 1,850 private
 French corporate groups, in order to investigate the relationship between corporate investment and the cost of capital. We notably construct firm-level measures of the weighted average cost of capital (WACC) that account for industry-specific values of the cost of equity and reflect the actual capital structure of firms. We find that a high WACC drags down investment: a one SD increase in the real WACC (+2 pp) is associated on average with a reduction by 0.65 pp in the investment rate.* </span>
 
-<a href="https://publications.banque-france.fr/sites/default/files/medias/documents/wp710.pdf" class = "btn btn-outline-success btn-sm" role = "button">  BdF Working Paper </a>  
+<a href="https://publications.banque-france.fr/sites/default/files/medias/documents/wp710.pdf" class = "btn btn-outline-success btn-sm" role = "button">  BdF Working Paper </a> <a href="https://github.com/CMS27/Wacc" class = "btn btn-outline-warning btn-sm" role = "button">  Download dataset </a>  
 
 
 ### Publications
