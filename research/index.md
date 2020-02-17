@@ -11,6 +11,10 @@ title:
 **"Information Frictions in Credit Markets"** <span style="color: gray;"> Draft coming soon ! </span> 
 
 
+**"Aggregate Implications of Credit Relationship Flows: A Tale of Two Margins"** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/).</span>
+
+
+
 ### Working Papers
 ---------------------------------------------------------------------------------------------------------------------
 
