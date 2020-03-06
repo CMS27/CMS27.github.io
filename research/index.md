@@ -15,6 +15,8 @@ title:
 
 <span style="color: gray;"> **Abstract** : *This paper documents the aggregate properties of credit relationship flows within the commercial loan market in France between 1998 and 2018. Using detailed bank-firm level data from the French Credit Register, we show that banks actively and continuously adjust their credit supply along both intensive and extensive margins. We particularly highlight the importance of gross flows associated with credit relationships and show that they are (i) volatile and pervasive throughout the cycle, and (ii) can account for up to 48 percent of the cyclical and 90 percent of the long-run variations in aggregate bank credit.* </span>
 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3548327" class = "btn btn-outline-success btn-sm" role = "button"> New draft ! </a>
+
 ### Working Papers
 ---------------------------------------------------------------------------------------------------------------------
 
