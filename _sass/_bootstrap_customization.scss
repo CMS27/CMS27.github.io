@@ -18,7 +18,7 @@ $font-family-serif:      Georgia, Cambria, "Times New Roman", Times, serif !defa
 
 .bg-light {
   background-color: #5588ff;
-  padding-top: 5px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
 
   &.navbar-fixed-top {
     border-width: 0 0 1px 0;
