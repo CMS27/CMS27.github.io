@@ -17,7 +17,7 @@ title:
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3548327" class = "btn btn-outline-success btn-sm" role = "button"> New draft ! </a>
 
-### Working Papers
+## Working Papers
 ---------------------------------------------------------------------------------------------------------------------
 
 **"Technology-Induced Trade Shocks ? Evidence from Broadband Internet Expansion in France"** <span style="color: gray;"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Thierry Mayer](https://sites.google.com/site/thierrymayer/home).  **R&R at Journal of International Economics** </span>
@@ -36,7 +36,7 @@ French corporate groups, in order to investigate the relationship between corpor
 <a href="https://publications.banque-france.fr/sites/default/files/medias/documents/wp710.pdf" class = "btn btn-outline-success btn-sm" role = "button">  BdF Working Paper </a> <a href="https://github.com/CMS27/Wacc" class = "btn btn-outline-warning btn-sm" role = "button">  Download dataset </a>  
 
 
-### Publications
+## Publications
 ---------------------------------------------------------------------------------------------------------------------
 
 **"Political Uncertainty, Risk of Frexit and European Sovereign Spreads"** <span style="color: gray;"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/). **Applied Economics Letters (2018)**  </span>  
