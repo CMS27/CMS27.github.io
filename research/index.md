@@ -10,7 +10,7 @@ title:
 
 **"Information Frictions in Credit Markets"** <span style="color: gray;"> Draft coming soon  </span> 
 
-**"Connect Your Manager! Technology and Organizational Change in French Firms"**  <span style="color: gray;"> with [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco), [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Sara Signorelli](https://sites.google.com/view/sarasignorelli/home).</span>
+<!--- **"Connect Your Manager! Technology and Organizational Change in French Firms"**  <span style="color: gray;"> with [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco), [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Sara Signorelli](https://sites.google.com/view/sarasignorelli/home).</span> -->
 
 **"Local Bank Specialization and SMEs Access to Credit"** <span style="color: gray;"> with [Anne Duquerroy](https://sites.google.com/site/anneduquerroy/),  [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) and [Daniel Paravisini](https://sites.google.com/site/paravisinidaniel/home).</span>
 
