@@ -14,7 +14,7 @@ title:
 
 **"Local Bank Specialization and SMEs Access to Credit"** <span style="color: gray;"> with [Anne Duquerroy](https://sites.google.com/site/anneduquerroy/),  [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) and [Daniel Paravisini](https://sites.google.com/site/paravisinidaniel/home).</span>
 
-<a href=""mailto:clement.mazet@sciencespo.fr"" class = "btn btn-outline-success btn-sm" role = "button"> Slides on demand </a>
+<a href="mailto:clement.mazet@sciencespo.fr" class = "btn btn-outline-success btn-sm" role = "button"> Slides on demand </a>
 
 **"Aggregate Implications of Credit Relationship Flows: A Tale of Two Margins"** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/).</span>
 
