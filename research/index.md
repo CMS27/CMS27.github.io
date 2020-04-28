@@ -14,6 +14,8 @@ title:
 
 **"Local Bank Specialization and SMEs Access to Credit"** <span style="color: gray;"> with [Anne Duquerroy](https://sites.google.com/site/anneduquerroy/),  [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) and [Daniel Paravisini](https://sites.google.com/site/paravisinidaniel/home).</span>
 
+<span style="color: gray;"> **Abstract** : We explore the role of the local industry specialization of bank branches as a new factor shaping the supply of credit to small firms. Using a very rich dataset that covers almost all bank-firm relationships in France, we compute a measure of the industrial specialization of bank branches. We first document that bank branch specialization is a common phenomenon, while different branches of the same bank generally exhibit different industrial specializations. We then investigate the effect of the specialization of a bank branch on the volume of credit granted to its clients. For identification, we exploit bank branch closings, followed by a transfer of the local client firms to another nearby branch of the same bank. Consistently with previous studies, we observe a significant drop in the supply of credit to small borrowers around the date of the closing. However, the effect of the closing almost doubles when the firm's account is transferred from a branch which was specialized in lending to its industry to a new, non-specialized, branch of the same bank. </span>
+
 <a href="mailto:clement.mazet@sciencespo.fr" class = "btn btn-outline-success btn-sm" role = "button"> Slides on demand </a>
 
 **"Aggregate Implications of Credit Relationship Flows: A Tale of Two Margins"** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/).</span>
