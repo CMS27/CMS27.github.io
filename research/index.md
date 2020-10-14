@@ -8,9 +8,9 @@ title:
 
 <!--- <br/> -->
 
-**Information Frictions in Credit Markets** <span style="color: gray;"> Draft coming soon  </span> 
+**Information Frictions in Credit Markets** <span style="color: gray; font-size:0.9em; line-height:1em;"> Draft coming soon  </span> 
 
-**Technological Change and Domestic Outsourcing of High and Low Skill Occupations**  <span style="color: gray;"> with [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco), [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Sara Signorelli](https://sites.google.com/view/sarasignorelli/home).</span> 
+**Technological Change and Domestic Outsourcing**  <span style="color: gray;"> with [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco), [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Sara Signorelli](https://sites.google.com/view/sarasignorelli/home).</span> 
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Domestic outsourcing has grown substantially in developed countries over the past two decades. While some studies document its implications for earnings inequality, very little is known regarding the drivers of this phenomenon. This paper addresses this question by studying the impact of the staggered diffusion of broadband internet on job outsourcing by French firms. We adopt an event study design and rely on employer-employee data.  Our results confirm that broadband technology is skill-biased, since it increases the relative demand for high-skill workers. Further, we show that BI led firms to outsource some non-core occupations to service contractors, both in the low and high skill segment. In both cases, we find that employment related to these occupations become increasingly concentrated in firms specializing in these activities, and less likely to become performed in-house within firms specialized in other activities. Finally, we provide suggestive evidence that high-skill workers experience salary gains from being outsourced, while low-skill workers lose. </span>
 
