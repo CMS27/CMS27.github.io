@@ -22,11 +22,6 @@ title:
 
 <a href="mailto:clement.mazet@sciencespo.fr" class = "btn btn-outline-success btn-sm" role = "button"> Slides on demand </a>
 
-**Aggregate Implications of Credit Relationship Flows: A Tale of Two Margins** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/).</span>
-
-<span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : This paper documents the aggregate properties of credit relationship flows within the commercial loan market in France between 1998 and 2018. Using detailed bank-firm level data from the French Credit Register, we show that banks actively and continuously adjust their credit supply along both intensive and extensive margins. We particularly highlight the importance of gross flows associated with credit relationships and show that they are (i) volatile and pervasive throughout the cycle, and (ii) can account for up to 48 percent of the cyclical and 90 percent of the long-run variations in aggregate bank credit. </span>
-
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3548327" class = "btn btn-outline-success btn-sm" role = "button"> New draft ! </a>
 
 ## Working Papers
 ---------------------------------------------------------------------------------------------------------------------
@@ -38,6 +33,12 @@ title:
 
 <a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13847" class = "btn btn-outline-success btn-sm" role = "button"> CEPR Working Paper </a> <a href="https://publications.banque-france.fr/en/technology-induced-trade-shocks-evidence-broadband-expansion-france" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a> <a href="https://blocnotesdeleco.banque-france.fr/en/blog-entry/broadband-internet-changes-geography-international-trade" class = "btn btn-outline-danger btn-sm" role = "button"> BdF's blog post </a>
 	
+
+**Aggregate Implications of Credit Relationship Flows: A Tale of Two Margins** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/).</span>
+
+<span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : This paper documents the aggregate properties of credit relationship flows within the commercial loan market in France between 1998 and 2018. Using detailed bank-firm level data from the French Credit Register, we show that banks actively and continuously adjust their credit supply along both intensive and extensive margins. We particularly highlight the importance of gross flows associated with credit relationships and show that they are (i) volatile and pervasive throughout the cycle, and (ii) can account for up to 48 percent of the cyclical and 90 percent of the long-run variations in aggregate bank credit. </span>
+
+<a href="https://publications.banque-france.fr/en/aggregate-implications-credit-relationship-flows-tale-two-margins" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a>
 
 **Investment and the WACC: Firm-Level Evidence from France** <span style="color: gray;"> with [Juan Carluccio](http://juancarluccio.com/) and [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/).</span>    
 <span style="color: gray;">**R&R at European Journal of Finance**</span> 
