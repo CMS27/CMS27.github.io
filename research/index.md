@@ -14,7 +14,7 @@ title:
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Domestic outsourcing has grown substantially in developed countries over the past two decades. While some studies document its implications for earnings inequality, very little is known regarding the drivers of this phenomenon. This paper addresses this question by studying the impact of the staggered diffusion of broadband internet on job outsourcing by French firms. We show that BI led firms to outsource some non-core occupations to service contractors, both in the low and high skill segment. In both cases, we find that employment related to these occupations become increasingly concentrated in firms specializing in these activities, and less likely to become performed in-house within firms specialized in other activities. Finally, we provide suggestive evidence that high-skill workers experience salary gains from being outsourced, while low-skill workers lose. </span>
 
-<a href="TechnicalChangeDomesticOutsourcing_BMMS_2020.pdf" class = "btn btn-outline-success btn-sm" role = "button"> Preliminary draft </a>
+<a href="BMMS_Feb2021.pdf" class = "btn btn-outline-success btn-sm" role = "button"> Preliminary draft </a>
 
 **Bank Local Specialization** <span style="color: gray;"> with [Anne Duquerroy](https://sites.google.com/site/anneduquerroy/),  [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) and [Daniel Paravisini](https://sites.google.com/site/paravisinidaniel/home).</span>
 
