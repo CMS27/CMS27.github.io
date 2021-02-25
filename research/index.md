@@ -41,8 +41,7 @@ title:
 <a href="https://publications.banque-france.fr/en/aggregate-implications-credit-relationship-flows-tale-two-margins" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a>
 
 
-**Who Benefits from State Corporate Tax Cuts? A Local Labor Markets Approach with Heterogeneous Firms: Comment** <span style="color: gray;"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Thierry Mayer](https://sites.google.com/site/thierrymayer/home). </span>    
-<span style="color: gray;"> **Submitted** </span>
+**Who Benefits from State Corporate Tax Cuts? A Local Labor Markets Approach with Heterogeneous Firms: Comment** <span style="color: gray;"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Thierry Mayer](https://sites.google.com/site/thierrymayer/home). </span> <span style="color: gray;"> **Submitted** </span>
 	
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Suárez-Serrato and Zidar (2016) identify state corporate tax incidence in a spatial equilibrium model with imperfectly mobile firms. Their identification argument rests on comparative-statics omitting a channel implied by their model: the link between common determinants of a location’s attractiveness and the average idiosyncratic productivity of firms choosing that location. This compositional margin causes the labor demand elasticity to be independent from the product demand elasticity, impeding the identification of incidence from reduced-form estimates. Assigning consensual values to the unidentified parameters, we find that the incidence share born by firm-owners is closer to 25% than the 40% initially reported. </span>
 
