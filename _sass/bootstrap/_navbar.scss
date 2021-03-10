@@ -48,15 +48,6 @@
   line-height: inherit;
   white-space: nowrap;
 
-  @include hover-focus {
-    text-decoration: underline;
-    text-decoration-color: #4582EC;
-    -o-transition:.4s;
-    -ms-transition:.4s;
-    -moz-transition:.4s;
-    -webkit-transition:.4s;
-    transition:.4s;
-  }
 }
 
 
@@ -77,7 +68,7 @@
   }
   
   @include hover-focus {
-    text-decoration: underline;
+    text-decoration: none;
   }
 
   .dropdown-menu {
@@ -218,14 +209,15 @@
   .navbar-nav {
     .nav-link {
       color: $navbar-light-color;
-      /* border-top: #f8f9fa solid 2px;
+      border-top: #f8f9fa solid 2px;
       border-bottom: #f8f9fa solid 2px;
       padding-top: 0.25rem !important;
-      padding-bottom: 0.25rem !important;*/
+      padding-bottom: 0.25rem !important;
 
       @include hover-focus {
-        color: $navbar-light-hover-color;
-        /*border-bottom: grey solid 4px;*/
+        /*color: $navbar-light-hover-color;*/
+        color: #4582EC;
+        border-bottom: grey solid 4px;
       }
 
       &.disabled {
