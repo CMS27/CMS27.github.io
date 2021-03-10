@@ -215,7 +215,7 @@
 
       @include hover-focus {
         color: $navbar-light-hover-color;
-        border-bottom: grey solid 2px;
+        border-bottom: grey solid 4px;
       }
 
       &.disabled {
