@@ -47,6 +47,10 @@
   font-size: $navbar-brand-font-size;
   line-height: inherit;
   white-space: nowrap;
+  
+  @include hover-focus {
+    text-decoration: none;
+  }
 
 }
 
@@ -248,7 +252,7 @@
       color: $navbar-light-active-color;
 
       @include hover-focus {
-        color: $navbar-light-active-color;
+        color:  #4582EC;
       }
     }
   }
