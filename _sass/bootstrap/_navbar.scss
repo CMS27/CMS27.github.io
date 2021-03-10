@@ -50,6 +50,12 @@
 
   @include hover-focus {
     text-decoration: underline;
+    text-decoration-color: #4582EC;
+    -o-transition:.4s;
+    -ms-transition:.4s;
+    -moz-transition:.4s;
+    -webkit-transition:.4s;
+    transition:.4s;
   }
 }
 
