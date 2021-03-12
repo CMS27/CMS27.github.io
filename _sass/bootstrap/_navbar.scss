@@ -237,7 +237,13 @@
     
 
     .show > .nav-link,
-    .active > .nav-link,
+    /*.active > .nav-link,*/
+    .active {
+      opacity: 1;
+      font-weight: bold;
+      color: $navbar-light-hover-color;
+      }
+    
     .nav-link.show,
     .nav-link.active {
       opacity: 1;
