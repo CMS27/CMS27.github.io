@@ -219,9 +219,8 @@
       padding-bottom: 0.25rem !important;
 
       @include hover-focus {
-        /*color: $navbar-light-hover-color;*/
-        color: #4582EC;
-        border-bottom: #4582EC solid 4px;
+        color: $navbar-light-hover-color;
+        border-bottom: $navbar-light-hover-color solid 4px;
       }
 
       &.disabled {
