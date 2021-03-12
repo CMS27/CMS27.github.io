@@ -212,7 +212,7 @@
 
   .navbar-nav {
     .nav-link {
-      /*font-weight: bold;*/
+      font-weight: bold;
       color: $navbar-light-color;
       border-top: #f8f9fa solid 2px;
       border-bottom: #f8f9fa solid 2px;
@@ -231,6 +231,11 @@
       &.disabled {
         color: $navbar-light-disabled-color;
       }
+      
+      .active > a {
+      color: $navbar-light-hover-color;
+
+}
     }
     
 
