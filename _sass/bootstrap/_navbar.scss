@@ -219,9 +219,9 @@
       padding-bottom: 0.25rem !important;
 
       @include hover-focus {
-        font-weight:blod;
+        font-weight:bold;
         color: $navbar-light-hover-color;
-        border-bottom: $navbar-light-hover-color solid 4px;
+        border-bottom: $blue solid 5px;
       }
 
       &.disabled {
@@ -242,6 +242,10 @@
   bottom: 10px;
   }
 
+    
+  .nav-link-ltr:hover::before {
+  width: 100%;
+  }
 
     .show > .nav-link,
     .active > .nav-link,
