@@ -232,21 +232,19 @@
         color: $navbar-light-disabled-color;
       }
       
-      .active  {
-      opacity: 1;
-      font-weight: bold;
-      color: $navbar-light-hover-color;
-      border-bottom: $blue solid 5px;
-      }
+      
     }
     
 
     .show > .nav-link,
     .active > .nav-link,
     .nav-link.show,
-    .nav-link.active {
-      color: $navbar-light-active-color;
-    }
+    .nav-link.active  {
+      opacity: 1;
+      font-weight: bold;
+      color: $navbar-light-hover-color;
+      border-bottom: $blue solid 5px;
+      }
   }
 
   .navbar-toggler {
