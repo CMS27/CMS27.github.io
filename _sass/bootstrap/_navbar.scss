@@ -232,10 +232,12 @@
         color: $navbar-light-disabled-color;
       }
       
-      .active > a {
-      color: $navbar-light-hover-color;
-
-}
+      .active a::after {
+      opacity: 1;
+        font-weight: bold;
+        color: $navbar-light-hover-color;
+        border-bottom: $blue solid 5px;
+      }
     }
     
 
