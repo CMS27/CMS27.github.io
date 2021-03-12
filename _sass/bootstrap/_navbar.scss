@@ -218,6 +218,8 @@
       border-bottom: #f8f9fa solid 2px;
       padding-top: 0.25rem !important;
       padding-bottom: 0.25rem !important;
+       margin: 0px 20px;
+      display: inline-block;
       opacity: 0.75;
 
       @include hover-focus {
