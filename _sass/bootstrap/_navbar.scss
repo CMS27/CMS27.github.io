@@ -212,14 +212,12 @@
 
   .navbar-nav {
     .nav-link {
-      font-weight: bold;
+      /*font-weight: bold;*/
       color: $navbar-light-color;
       border-top: #f8f9fa solid 2px;
       border-bottom: #f8f9fa solid 2px;
       padding-top: 0.25rem !important;
       padding-bottom: 0.25rem !important;
-      /* margin: 0px 20px;
-      display: inline-block;*/
       opacity: 0.75;
 
       @include hover-focus {
@@ -227,7 +225,7 @@
         font-weight: bold;
         color: $navbar-light-hover-color;
         border-bottom: $blue solid 5px;
-        transition: 300ms;
+        transition: ease-in-out 500ms;
       }
 
       &.disabled {
