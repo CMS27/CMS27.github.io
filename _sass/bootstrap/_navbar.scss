@@ -205,7 +205,7 @@
     color: $navbar-light-active-color;
 
     @include hover-focus {
-      color: $navbar-light-active-color;
+      color: #4582EC;
     }
   }
 
@@ -221,7 +221,7 @@
       @include hover-focus {
         /*color: $navbar-light-hover-color;*/
         color: #4582EC;
-        border-bottom: grey solid 4px;
+        border-bottom: #4582EC solid 4px;
       }
 
       &.disabled {
