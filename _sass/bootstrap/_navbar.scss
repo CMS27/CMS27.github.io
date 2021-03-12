@@ -212,16 +212,19 @@
 
   .navbar-nav {
     .nav-link {
+      font-weight: bold;
       color: $navbar-light-color;
       border-top: #f8f9fa solid 2px;
       border-bottom: #f8f9fa solid 2px;
       padding-top: 0.25rem !important;
       padding-bottom: 0.25rem !important;
+      opacity: 0.75;
 
       @include hover-focus {
-        font-weight:bold;
+        opacity: 1;
+        font-weight: bold;
         color: $navbar-light-hover-color;
-        border-bottom: $blue solid 5px;
+        /* border-bottom: $blue solid 5px;*/
       }
 
       &.disabled {
@@ -235,6 +238,7 @@
   height: 5px;
   content: "";
   position: absolute;
+  background-color: $navbar-light-color;
   }
 
   .nav-link-ltr::before {
