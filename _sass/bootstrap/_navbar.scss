@@ -239,11 +239,10 @@
     .show > .nav-link,
     .active > .nav-link,
     .nav-link.show,
-    .nav-link.active  {
+    .nav-link.active {
       opacity: 1;
       font-weight: bold;
       color: $navbar-light-hover-color;
-      border-bottom: $blue solid 5px;
       }
   }
 
