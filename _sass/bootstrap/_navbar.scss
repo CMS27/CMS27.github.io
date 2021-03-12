@@ -232,6 +232,11 @@
         color: $navbar-light-disabled-color;
       }
       
+      .active {
+      opacity: 1;
+      font-weight: bold;
+      color: $navbar-light-hover-color;
+      }
       
     }
     
