@@ -218,15 +218,16 @@
       border-bottom: #f8f9fa solid 2px;
       padding-top: 0.25rem !important;
       padding-bottom: 0.25rem !important;
-       margin: 0px 20px;
-      display: inline-block;
+      /* margin: 0px 20px;
+      display: inline-block;*/
       opacity: 0.75;
 
       @include hover-focus {
         opacity: 1;
         font-weight: bold;
         color: $navbar-light-hover-color;
-        /* border-bottom: $blue solid 5px;*/
+        border-bottom: $blue solid 5px;
+        transition: 300ms;
       }
 
       &.disabled {
@@ -234,24 +235,6 @@
       }
     }
     
-    
-  .nav-link::before {
-  transition: 300ms;
-  height: 5px;
-  content: "";
-  position: absolute;
-  background-color: $navbar-light-color;
-  }
-
-  .nav-link-ltr::before {
-  width: 0%;
-  bottom: 10px;
-  }
-
-    
-  .nav-link-ltr:hover::before {
-  width: 100%;
-  }
 
     .show > .nav-link,
     .active > .nav-link,
