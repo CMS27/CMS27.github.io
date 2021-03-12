@@ -232,11 +232,11 @@
         color: $navbar-light-disabled-color;
       }
       
-      .active a::after {
+      .active  {
       opacity: 1;
-        font-weight: bold;
-        color: $navbar-light-hover-color;
-        border-bottom: $blue solid 5px;
+      font-weight: bold;
+      color: $navbar-light-hover-color;
+      border-bottom: $blue solid 5px;
       }
     }
     
