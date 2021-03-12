@@ -205,7 +205,7 @@
     color: $navbar-light-active-color;
 
     @include hover-focus {
-      color: blue;
+      color: $blue;
     }
   }
 
