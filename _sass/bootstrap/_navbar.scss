@@ -205,7 +205,7 @@
     color: $navbar-light-active-color;
 
     @include hover-focus {
-      color: #4582EC;
+      color: blue;
     }
   }
 
@@ -219,6 +219,7 @@
       padding-bottom: 0.25rem !important;
 
       @include hover-focus {
+        font-weight:blod;
         color: $navbar-light-hover-color;
         border-bottom: $navbar-light-hover-color solid 4px;
       }
@@ -227,6 +228,20 @@
         color: $navbar-light-disabled-color;
       }
     }
+    
+    
+  .nav-link::before {
+  transition: 300ms;
+  height: 5px;
+  content: "";
+  position: absolute;
+  }
+
+  .nav-link-ltr::before {
+  width: 0%;
+  bottom: 10px;
+  }
+
 
     .show > .nav-link,
     .active > .nav-link,
