@@ -35,6 +35,7 @@ title:
 	
 
 **Aggregate Implications of Credit Relationship Flows: A Tale of Two Margins** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/).</span>
+<span style="color: gray;"> **Submitted** </span>
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : This paper documents the aggregate properties of credit relationship flows within the commercial loan market in France between 1998 and 2018. Using detailed bank-firm level data from the French Credit Register, we show that banks actively and continuously adjust their credit supply along both intensive and extensive margins. We particularly highlight the importance of gross flows associated with credit relationships and show that they are (i) volatile and pervasive throughout the cycle, and (ii) can account for up to 48 percent of the cyclical and 90 percent of the long-run variations in aggregate bank credit. </span>
 
