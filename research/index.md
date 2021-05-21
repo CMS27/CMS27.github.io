@@ -8,7 +8,9 @@ title:
 
 <!--- <br/> -->
 
-**Information Frictions in Credit Markets** <span style="color: gray; font-size:0.9em; line-height:1em;"> Draft coming soon  </span> 
+**Search Frictions in Credit Markets** 
+
+<span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Motivated by empirical evidence I document on local credit markets in France using data on more than 3.5 million bank-firm relationships, I propose a theory of bank-firm matching subject to search frictions. Firms undergo a costly search process to locate and match with the right banking partner. Upon matching, agency frictions hinder banks ability to optimally screen and monitor projects. I structurally estimate my model on French data using the staggered roll-out of Broadband Internet, from 1997 to 2007, as a shock to search frictions. I confirm the model predictions that a reduction in search frictions affects the allocation of credit and the dynamics of firm-bank matching. Finally, I use the structure of my model to quantify the impact of this technology-induced reduction in search frictions on loan prices. I find that broadband internet access reduced the cost of debt for small businesses by 4.9\%. </span>
 
 **Technological Change and Domestic Outsourcing**  <span style="color: gray;"> with [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco), [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Sara Signorelli](https://sites.google.com/view/sarasignorelli/home).</span> 
 
