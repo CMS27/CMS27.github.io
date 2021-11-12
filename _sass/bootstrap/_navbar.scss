@@ -232,19 +232,29 @@
         color: $navbar-light-disabled-color;
       }
       
-      .active > a {
+      .active {
+      opacity: 1;
+      font-weight: bold;
       color: $navbar-light-hover-color;
-
-}
+      }
+      
     }
     
 
     .show > .nav-link,
-    .active > .nav-link,
+    /*.active > .nav-link,*/
+    .active {
+      opacity: 1;
+      font-weight: bold;
+      color: $navbar-light-hover-color;
+      }
+    
     .nav-link.show,
     .nav-link.active {
-      color: $navbar-light-active-color;
-    }
+      opacity: 1;
+      font-weight: bold;
+      color: $navbar-light-hover-color;
+      }
   }
 
   .navbar-toggler {
