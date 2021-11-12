@@ -18,6 +18,7 @@ title:
 
 <a href="mailto:clement.mazet@sciencespo.fr" class = "btn btn-outline-success btn-sm" role = "button"> Slides on demand </a>
 
+**Innovate or Relocate?** <span style="color: gray;"> with [Philippe Aghion](https://www.insead.edu/faculty-research/faculty/philippe-aghion),  [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco) and [David Hémous](https://www.econ.uzh.ch/en/people/faculty/hemous.html).</span>
 
 ## Working Papers
 ---------------------------------------------------------------------------------------------------------------------
