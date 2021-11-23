@@ -12,6 +12,9 @@ I am a research economist at [Banque de France](https://www.banque-france.fr/en/
 
 I received my PhD from [SciencesPo, Paris](http://econ.sciences-po.fr/faculty-permanent-faculty) under the supervision of [Thomas Chaney](https://sites.google.com/site/thomaschaney/) in June 2021.  
 
+I am on the job market and will be available for interview at the European Job Market from 15-18 December 2021, and at the AEA meetings starting January 3 2022. 
+You can find my job market paper [here](/research/JMP_CMS_15Nov2021.pdf)
+
 ### Research
 
 My research is in Microeconomics; I am particularly interested in firm dynamics, international trade and search frictions.  
