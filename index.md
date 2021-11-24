@@ -18,7 +18,7 @@ You can find my job market paper [here](/research/JMP_CMS_15Nov2021.pdf)
 
 ### Research
 
-My research is in applied microeconomics; I am particularly interested in banking, international trade and search frictions.  
+My research is in microeconomics; I am particularly interested in banking, international trade and information frictions.  
 [Learn more about my research.](/research)
 
 ### Contact
