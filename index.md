@@ -18,7 +18,7 @@ You can find my job market paper [here](/research/JMP_CMS_15Nov2021.pdf)
 
 ### Research
 
-My research is finance, international trade and the role of information frictions.  
+My research is finance, international trade and studies the role of information frictions.  
 [Learn more about my research.](/research)
 
 ### Contact
