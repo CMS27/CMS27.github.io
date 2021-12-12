@@ -34,20 +34,6 @@ title:
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3721950" class = "btn btn-outline-success btn-sm" role = "button"> SSRN Paper </a>
 
 
-## Work in Progress
----------------------------------------------------------------------------------------------------------------------
-
-<!--- <br/> -->
-
-**Bank Local Specialization** <span style="color: gray;"> with [Anne Duquerroy](https://sites.google.com/site/anneduquerroy/),  [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) and [Daniel Paravisini](https://sites.google.com/site/paravisinidaniel/home).</span>
-
-<span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Using micro-data of the universe of bank-SME relationships in France, we show that banks specialize locally (at the branch level) by industry, and that this specialization shapes the equilibrium amount of borrowing by small firms. For identification, we exploit the reallocation of local clients from closed down branches to nearby branches of the same bank, which induced quasi-random variation in the match between a firm’s industry and the industry of specialization of the lending branch. We show that branch reallocation leads, on average, to a substantial and permanent decline in small firm borrowing. This decline is twice larger for firms whose accounts are reallocated from branches less specialized in their industry than the original one.  </span>
-
-<a href="mailto:clement.mazet@sciencespo.fr" class = "btn btn-outline-success btn-sm" role = "button"> Slides on demand </a>
-
-**Innovate or Relocate?** <span style="color: gray;"> with [Philippe Aghion](https://www.insead.edu/faculty-research/faculty/philippe-aghion),  [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco) and [David Hémous](https://www.econ.uzh.ch/en/people/faculty/hemous.html).</span>
-
-
 ## Working Papers
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -64,6 +50,21 @@ title:
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : This paper documents the aggregate properties of credit relationship flows within the commercial loan market in France between 1998 and 2018. Using detailed bank-firm level data from the French Credit Register, we show that banks actively and continuously adjust their credit supply along both intensive and extensive margins. We particularly highlight the importance of gross flows associated with credit relationships and show that they are (i) volatile and pervasive throughout the cycle, and (ii) can account for up to 48 percent of the cyclical and 90 percent of the long-run variations in aggregate bank credit. </span>
 
 <a href="https://publications.banque-france.fr/en/aggregate-implications-credit-relationship-flows-tale-two-margins" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a>
+
+
+## Work in Progress
+---------------------------------------------------------------------------------------------------------------------
+
+<!--- <br/> -->
+
+**Bank Local Specialization** <span style="color: gray;"> with [Anne Duquerroy](https://sites.google.com/site/anneduquerroy/),  [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) and [Daniel Paravisini](https://sites.google.com/site/paravisinidaniel/home).</span>
+
+<span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Using micro-data of the universe of bank-SME relationships in France, we show that banks specialize locally (at the branch level) by industry, and that this specialization shapes the equilibrium amount of borrowing by small firms. For identification, we exploit the reallocation of local clients from closed down branches to nearby branches of the same bank, which induced quasi-random variation in the match between a firm’s industry and the industry of specialization of the lending branch. We show that branch reallocation leads, on average, to a substantial and permanent decline in small firm borrowing. This decline is twice larger for firms whose accounts are reallocated from branches less specialized in their industry than the original one.  </span>
+
+<a href="mailto:clement.mazet@sciencespo.fr" class = "btn btn-outline-success btn-sm" role = "button"> Slides on demand </a>
+
+**Innovate or Relocate?** <span style="color: gray;"> with [Philippe Aghion](https://www.insead.edu/faculty-research/faculty/philippe-aghion),  [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco) and [David Hémous](https://www.econ.uzh.ch/en/people/faculty/hemous.html).</span>
+
 
 ## Other Publications
 ---------------------------------------------------------------------------------------------------------------------
