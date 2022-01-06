@@ -14,7 +14,7 @@ I'll be visiting the [MIT Sloan](https://mitsloan.mit.edu/faculty/academic-group
 I received my PhD from [SciencesPo, Paris](http://econ.sciences-po.fr/faculty-permanent-faculty) under the supervision of [Thomas Chaney](https://sites.google.com/site/thomaschaney/) in June 2021.  
 
 I am on the job market and will be available for interviews at the European Job Market from 15-18 December 2021, and at the AEA meetings starting January 3 2022. 
-You can find my job market paper [here](/research/JMP_CMS_15Nov2021.pdf)
+You can find my job market paper [here](/research/JMP_CMS_Jan2022.pdf)
 
 ### Research
 
