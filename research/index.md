@@ -52,18 +52,20 @@ title:
 <a href="https://publications.banque-france.fr/en/aggregate-implications-credit-relationship-flows-tale-two-margins" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a>
 
 
+**Bank Local Specialization** <span style="color: gray;"> with [Anne Duquerroy](https://sites.google.com/site/anneduquerroy/),  [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) and [Daniel Paravisini](https://sites.google.com/site/paravisinidaniel/home).</span>
+
+<span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Using micro-data on bank-SME relationships in France, we show that banks specialize locally by industry and that this specialization shapes the equilibrium amount of lending. We use the reallocation of firms’ accounts from closed branches to nearby branches of the same bank, as a source of quasi-random variation in the match between a firm’s industry and the industry of specialization of its bank. Reallocation is associated with a significant and persistent drop in credit, the magnitude of which doubles for firms transferred to a branch less specialized in their industry. </span>
+
+<a href="https://publications.banque-france.fr/en/bank-local-specialization" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a>
+
 ## Work in Progress
 ---------------------------------------------------------------------------------------------------------------------
 
 <!--- <br/> -->
 
-**Bank Local Specialization** <span style="color: gray;"> with [Anne Duquerroy](https://sites.google.com/site/anneduquerroy/),  [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) and [Daniel Paravisini](https://sites.google.com/site/paravisinidaniel/home).</span>
-
-<span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Using micro-data of the universe of bank-SME relationships in France, we show that banks specialize locally (at the branch level) by industry, and that this specialization shapes the equilibrium amount of borrowing by small firms. For identification, we exploit the reallocation of local clients from closed down branches to nearby branches of the same bank, which induced quasi-random variation in the match between a firm’s industry and the industry of specialization of the lending branch. We show that branch reallocation leads, on average, to a substantial and permanent decline in small firm borrowing. This decline is twice larger for firms whose accounts are reallocated from branches less specialized in their industry than the original one.  </span>
-
-<a href="mailto:clement.mazet@sciencespo.fr" class = "btn btn-outline-success btn-sm" role = "button"> Slides on demand </a>
-
 **Innovate or Relocate?** <span style="color: gray;"> with [Philippe Aghion](https://www.insead.edu/faculty-research/faculty/philippe-aghion),  [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco) and [David Hémous](https://www.econ.uzh.ch/en/people/faculty/hemous.html).</span>
+
+**Some don't like it hot: bank depositors and NGO campaigns against brown banks.** <span style="color: gray;"> with [Thierry Mayer](https://sites.google.com/site/thierrymayer/home) and [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) </span>
 
 
 ## Other Publications
