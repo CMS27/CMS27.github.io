@@ -13,7 +13,7 @@ I am currently visiting [MIT Sloan](https://mitsloan.mit.edu/faculty/academic-gr
 
 I received my PhD from [SciencesPo, Paris](http://econ.sciences-po.fr/faculty-permanent-faculty) under the supervision of [Thomas Chaney](https://sites.google.com/site/thomaschaney/) in 2021.  
 
-**I am excited to join the Finance Department at Bocconi University as an Assistant Professor in September 2022!**
+I am excited to join the Finance Department at Bocconi University as an Assistant Professor in September 2022!
 
 ### Research
 
