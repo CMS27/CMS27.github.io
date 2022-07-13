@@ -13,8 +13,7 @@ I am currently visiting [MIT Sloan](https://mitsloan.mit.edu/faculty/academic-gr
 
 I received my PhD from [SciencesPo, Paris](http://econ.sciences-po.fr/faculty-permanent-faculty) under the supervision of [Thomas Chaney](https://sites.google.com/site/thomaschaney/) in 2021.  
 
-I am on the job market and will be available for interviews at the European Job Market from 15-18 December 2021, and at the AEA meetings starting January 3 2022. 
-You can find my job market paper [here](/research/JMP_CMS_Jan2022.pdf)
+**I am excited to join the Finance Department at Bocconi University as an Assistant Professor in September 2022!**
 
 ### Research
 
