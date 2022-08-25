@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-#### Finance with Big Data (2022) <small class="text-muted"> - Lecturer </small>
+#### Finance with Big Data (2022) <small class="text-muted"> - Course director </small>
 
 University Bocconi, Milan, Master in Data Science and Business Analytics (2nd year).   
 
