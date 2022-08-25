@@ -3,6 +3,14 @@ layout: page
 title: Teaching
 ---
 
+#### Finance with Big Data (2022) <small class="text-muted"> - Lecturer </small>
+
+University Bocconi, Milan, Master in Data Science and Business Analytics (2nd year).   
+
+<a href="https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/master+of+science/data+science+and+business+analytics/" class = "btn btn-outline-warning btn-sm" role = "button"> Master's Website </a>
+
+
+------------------------------------------------------------------------------------------------------------------------
 
 #### Numerical Methods (2020) <small class="text-muted"> - Lecturer </small>
 
@@ -22,17 +30,17 @@ SciencesPo, Paris, Master in Economics (1st year).
 
 ------------------------------------------------------------------------------------------------------------------------
 
-#### Growth Theory (2019-2020) <small class="text-muted"> - Teaching Assistant </small>
+#### Growth Theory (2019-2020) 
 
 Ecole Centrale Paris, 2nd year  
 _Prof_: [Mehdi Senouci](https://ideas.repec.org/f/pse343.html)
 
-#### Microeconomics (2017-2018) <small class="text-muted"> - Teaching Assistant </small>
+#### Microeconomics (2017-2018) 
 
 Ecole Centrale Paris, 2nd year  
 _Prof_: [Pascal da Costa](https://scholar.google.fr/citations?user=TVsjYcRrvDEC&hl=fr)
 
-#### Evaluation of Public Policies (2017-2018) <small class="text-muted"> - Teaching Assistant </small>
+#### Evaluation of Public Policies (2017-2018) 
 
 SciencesPo, Paris, Master in Public Policy.   
 _Prof_: [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/)
