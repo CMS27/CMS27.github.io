@@ -7,7 +7,7 @@ title: Teaching
 
 University Bocconi, Milan, Master in Data Science and Business Analytics (2nd year).   
 
-<a href="https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/master+of+science/data+science+and+business+analytics/" class = "btn btn-outline-warning btn-sm" role = "button"> Master's Website </a>
+<a href="https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/master+of+science/data+science+and+business+analytics/" class = "btn btn-outline-warning btn-sm" role = "button"> Master's Website </a> <a href="https://github.com/CMS27/CMS27.github.io/edit/master/teaching/Data_PCLab1_Stock.csv" class="btn btn-outline-success btn-sm" role = "button"> Data PC Lab </a>
 
 
 ------------------------------------------------------------------------------------------------------------------------
