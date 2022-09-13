@@ -23,7 +23,8 @@ My research is in finance, international trade and studies the role of informati
 
 ### Contact
 
-[clement [dot] mazet [at] sciencespo [dot] fr](mailto:clement.mazet@sciencespo.fr)  
-Banque de France, DGEI  
-75049 Paris Cedex 01
+[clement [dot] mazetsonilhac [at] unibocconi [dot] it](mailto:clement.mazetsonilhac@unibocconi.it)  
+Bocconi University
+Via Roentgen, 1 (2nd floor) 
+20136, Milano
 
