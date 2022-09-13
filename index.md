@@ -24,7 +24,7 @@ My research is in finance, international trade and studies the role of informati
 ### Contact
 
 [clement [dot] mazetsonilhac [at] unibocconi [dot] it](mailto:clement.mazetsonilhac@unibocconi.it)  
-Bocconi University
-Via Roentgen, 1 (2nd floor) 
+Bocconi University\
+Via Roentgen, 1 (2nd floor)\
 20136, Milano
 
