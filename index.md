@@ -3,7 +3,7 @@ layout: page
 title: Clément Mazet-Sonilhac
 ---
 
-[comment]: # ### Presentation
+<!--- ### Presentation >
 
 
 hello! my name is clément mazet-sonilhac.
@@ -17,7 +17,7 @@ i received my phd from [SciencesPo, Paris](http://econ.sciences-po.fr/faculty-pe
 my research is in finance, international trade and studies the role of information frictions.  
 [learn more about my research.](/research)
 
-[comment]: # ### Research
+<!---  ### Research >
 
 # contact
 
