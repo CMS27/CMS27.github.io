@@ -1,6 +1,6 @@
 # Clément Mazet-Sonilhac
 
-This is my research website - Clément Mazet-Sonilhac (Banque de France, Collège de France, Sciences Po)
+This is my research website - Clément Mazet-Sonilhac (Bocconi University, Collège de France, IGIER)
 
 ## http://cms27.github.io
 
