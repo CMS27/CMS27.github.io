@@ -28,23 +28,28 @@ title:
 <a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13847" class = "btn btn-outline-success btn-sm" role = "button"> CEPR Working Paper </a> <a href="https://publications.banque-france.fr/en/technology-induced-trade-shocks-evidence-broadband-expansion-france" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a> <a href="https://blocnotesdeleco.banque-france.fr/en/blog-entry/broadband-internet-changes-geography-international-trade" class = "btn btn-outline-danger btn-sm" role = "button"> BdF's blog post </a>
 
 
-**Who Benefits from State Corporate Tax Cuts? A Local Labor Markets Approach with Heterogeneous Firms: Comment** <span style="color: gray;"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Thierry Mayer](https://sites.google.com/site/thierrymayer/home). </span> <span style="color: gray;"> **Accepted at American Economic Review, 2021, Forthcoming** </span>
+**Who Benefits from State Corporate Tax Cuts? A Local Labor Markets Approach with Heterogeneous Firms: Comment** <span style="color: gray;"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Thierry Mayer](https://sites.google.com/site/thierrymayer/home). </span> <span style="color: gray;"> **American Economic Review, Volume 113, August 2023** </span>
 	
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Suárez-Serrato and Zidar (2016) identify state corporate tax incidence in a spatial equilibrium model with imperfectly mobile firms. Their identification argument rests on comparative-statics omitting a channel implied by their model: the link between common determinants of a location’s attractiveness and the average idiosyncratic productivity of firms choosing that location. This compositional margin causes the labor demand elasticity to be independent from the product demand elasticity, impeding the identification of incidence from reduced-form estimates. Assigning consensual values to the unidentified parameters, we find that the incidence share born by firm-owners is closer to 25% than the 40% initially reported. </span>
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3721950" class = "btn btn-outline-success btn-sm" role = "button"> SSRN Paper </a>
 
-
-## Working Papers
----------------------------------------------------------------------------------------------------------------------
-
-**Technological Change and Domestic Outsourcing**  <span style="color: gray;"> with [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco), [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Sara Signorelli](https://sites.google.com/view/sarasignorelli/home).</span> <span style="color: gray;"> **R&R at Journal of Labor Economics** </span>
+**Technological Change and Domestic Outsourcing**  <span style="color: gray;"> with [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco), [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Sara Signorelli](https://sites.google.com/view/sarasignorelli/home).</span> <span style="color: gray;"> **Journal of Labor Economics, Accepted** </span>
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Domestic outsourcing has grown substantially in developed countries over the past two decades. While some studies document its implications for earnings inequality, very little is known regarding the drivers of this phenomenon. This paper addresses this question by studying the impact of the staggered diffusion of broadband internet on job outsourcing by French firms. We show that BI led firms to outsource some non-core occupations to service contractors, both in the low and high skill segment. In both cases, we find that employment related to these occupations become increasingly concentrated in firms specializing in these activities, and less likely to become performed in-house within firms specialized in other activities. Finally, we provide suggestive evidence that high-skill workers experience salary gains from being outsourced, while low-skill workers lose. </span>
 
 <a href="BMMS_June2021_submit.pdf" class = "btn btn-outline-success btn-sm" role = "button"> Working Paper </a>
 
-	
+## Working Papers
+---------------------------------------------------------------------------------------------------------------------
+
+**Bank Local Specialization** <span style="color: gray;"> with [Anne Duquerroy](https://sites.google.com/site/anneduquerroy/),  [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) and [Daniel Paravisini](https://sites.google.com/site/paravisinidaniel/home).</span>
+
+<span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Using micro-data on bank-SME relationships in France, we show that banks specialize locally by industry and that this specialization shapes the equilibrium amount of lending. We use the reallocation of firms’ accounts from closed branches to nearby branches of the same bank, as a source of quasi-random variation in the match between a firm’s industry and the industry of specialization of its bank. Reallocation is associated with a significant and persistent drop in credit, the magnitude of which doubles for firms transferred to a branch less specialized in their industry. </span>
+
+<a href="https://publications.banque-france.fr/en/bank-local-specialization" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a>
+
+
 **Aggregate Implications of Credit Relationship Flows: A Tale of Two Margins** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/).</span>
 <span style="color: gray;"> **Submitted** </span>
 
@@ -53,21 +58,24 @@ title:
 <a href="https://publications.banque-france.fr/en/aggregate-implications-credit-relationship-flows-tale-two-margins" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a>
 
 
-**Bank Local Specialization** <span style="color: gray;"> with [Anne Duquerroy](https://sites.google.com/site/anneduquerroy/),  [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) and [Daniel Paravisini](https://sites.google.com/site/paravisinidaniel/home).</span>
+**Credit Market Fluidity** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/).</span>
 
-<span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Using micro-data on bank-SME relationships in France, we show that banks specialize locally by industry and that this specialization shapes the equilibrium amount of lending. We use the reallocation of firms’ accounts from closed branches to nearby branches of the same bank, as a source of quasi-random variation in the match between a firm’s industry and the industry of specialization of its bank. Reallocation is associated with a significant and persistent drop in credit, the magnitude of which doubles for firms transferred to a branch less specialized in their industry. </span>
+<span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : We coin the term credit market fluidity to describe the intensity of credit reallocation, and study its properties and determinants within the commercial loan market in France. We show that the reallocation of credit relationships exhibits (i) large magnitudes and variations throughout the cycle, (ii) a significant degree of heterogeneity across banks and firms, and (iii) is procyclical. A decomposition into across- and within-bank reallocation components highlights that bank- and firm-level heterogeneity only account for 10% and 40% of credit market fluidity. At the bank level, credit fluidity is associated with lower credit risk and higher borrower productivity, but has a muted effect on loan profitability. We also uncover a positive relationship between fluidity and growth and associate the secular decline of the former throughout the past decade with a credit volume gap amounting to up to EUR 100 billion. </span>
 
-<a href="https://publications.banque-france.fr/en/bank-local-specialization" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147826" class = "btn btn-outline-success btn-sm" role = "button"> Working Paper </a>
 
 ## Work in Progress
 ---------------------------------------------------------------------------------------------------------------------
 
 <!--- <br/> -->
 
-**Innovate or Relocate?** <span style="color: gray;"> with [Philippe Aghion](https://www.insead.edu/faculty-research/faculty/philippe-aghion),  [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco) and [David Hémous](https://www.econ.uzh.ch/en/people/faculty/hemous.html).</span>
+**Innovate or Relocate?** <span style="color: gray;"> with [Philippe Aghion](https://www.insead.edu/faculty-research/faculty/philippe-aghion), [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco) and [David Hémous](https://www.econ.uzh.ch/en/people/faculty/hemous.html).</span>
 
-**Some don't like it hot: bank depositors and NGO campaigns against brown banks.** <span style="color: gray;"> with [Thierry Mayer](https://sites.google.com/site/thierrymayer/home) and [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) </span>
+**Some don't like it hot: bank depositors and NGO campaigns against brown banks.** <span style="color: gray;"> with [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) </span>
 
+**Capturing Subsidies or Storing Carbon: Evidence from the North Sea** <span style="color: gray;"> with [Alessandro Iaria](https://sites.google.com/view/alessandro-iaria-economics), [Michele Fioretti](http://www.michelefioretti.com/), [Aljoscha Jensen](https://aljoschajanssen.com/) and [Robert K. Perrons](https://www.qut.edu.au/about/our-people/academic-profiles/robert.perrons)</span>
+ 
+**Innovation Begets Innovation and Concentration: The Case of Upstream Oil & Gas in the North Sea** <span style="color: gray;"> with [Alessandro Iaria](https://sites.google.com/view/alessandro-iaria-economics), [Michele Fioretti](http://www.michelefioretti.com/), [Aljoscha Jensen](https://aljoschajanssen.com/) and [Robert K. Perrons](https://www.qut.edu.au/about/our-people/academic-profiles/robert.perrons)</span>
 
 ## Other Publications
 ---------------------------------------------------------------------------------------------------------------------
