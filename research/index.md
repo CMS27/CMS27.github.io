@@ -11,10 +11,9 @@ title:
 
 <details>
 
-	<summary><span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** :</summary>
+<summary><span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** :</summary>
 
-
-	 In this paper, we test for the presence of “technology-induced” trade in France between 2000 and 2007 and assess its impact on consumer welfare. We use the staggered roll-out of broadband internet to estimate its causal impact on the 		importing behavior of firms. Using an event-study design, we find that broadband expansion increases imports. Our estimates imply that the increase in the value of imports in the absence of broadband expansion would have been a 15% lower. We 	further find that the sub-extensive margin (number of products and sourcing country per firm) is the main margin of adjustment and that the impact is higher for capital goods. Finally, we develop a firm-based model of importing and adopt a		sufficient statistics approach in order to quantify the contribution of the import-channel to the overall effect of broadband on consumer welfare. Within this model, our reduced-form estimates imply that broadband internet reduced the 		consumer price index by 1.7% and that the import-channel accounts for a quarter of that effect. </span>
+	In this paper, we test for the presence of “technology-induced” trade in France between 2000 and 2007 and assess its impact on consumer welfare. We use the staggered roll-out of broadband internet to estimate its causal impact on the 		importing behavior of firms. Using an event-study design, we find that broadband expansion increases imports. Our estimates imply that the increase in the value of imports in the absence of broadband expansion would have been a 15% lower. We 	further find that the sub-extensive margin (number of products and sourcing country per firm) is the main margin of adjustment and that the impact is higher for capital goods. Finally, we develop a firm-based model of importing and adopt a		sufficient statistics approach in order to quantify the contribution of the import-channel to the overall effect of broadband on consumer welfare. Within this model, our reduced-form estimates imply that broadband internet reduced the 		consumer price index by 1.7% and that the import-channel accounts for a quarter of that effect. </span>
 
 </details>
 
@@ -37,7 +36,7 @@ title:
 ## Working Papers
 ---------------------------------------------------------------------------------------------------------------------
 
-**Information Frictions in Credit Markets**  
+**Search Frictions in Credit Markets**  
 <span style="color: gray;"> **USC Marshall School of Business Trefftzs Award (2022) and WFA Brattle Group PhD Candidate Award for Outstanding Research (2022)** </span>
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Motivated by empirical evidence I document on local credit markets in France using data on more than 3.5 million bank-firm relationships, I propose a theory of bank-firm matching subject to search frictions. Firms undergo a costly search process to locate and match with the right banking partner. Upon matching, banks incur a cost to screen investment projects. I structurally estimate my model on French data using the staggered roll-out of Broadband Internet, from 1997 to 2007, as a shock to search frictions. I confirm the model predictions that a reduction in search frictions affects the allocation of credit and the dynamics of firm-bank matching. Finally, I use the structure of my model to quantify the impact of this technology-induced reduction in search frictions on loan prices. I find that broadband internet access reduced the cost of debt for small businesses by 4.9%. </span>
