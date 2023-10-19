@@ -36,7 +36,8 @@ title:
 
 **Search Frictions in Credit Markets**    
 
-<span style="color: gray;"> **USC Marshall School of Business Trefftzs Award (2022) and WFA Brattle Group PhD Candidate Award for Outstanding Research (2022)** </span>  
+* <span style="color: gray;"> **USC Marshall School of Business Trefftzs Award (2022)** </span>
+* <span style="color: gray;"> **WFA Brattle Group PhD Candidate Award for Outstanding Research (2022)** </span>   
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Motivated by empirical evidence I document on local credit markets in France using data on more than 3.5 million bank-firm relationships, I propose a theory of bank-firm matching subject to search frictions. Firms undergo a costly search process to locate and match with the right banking partner. Upon matching, banks incur a cost to screen investment projects. I structurally estimate my model on French data using the staggered roll-out of Broadband Internet, from 1997 to 2007, as a shock to search frictions. I confirm the model predictions that a reduction in search frictions affects the allocation of credit and the dynamics of firm-bank matching. Finally, I use the structure of my model to quantify the impact of this technology-induced reduction in search frictions on loan prices. I find that broadband internet access reduced the cost of debt for small businesses by 4.9%. </span>
 
