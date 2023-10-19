@@ -34,7 +34,7 @@ title:
 ## Working Papers
 ---------------------------------------------------------------------------------------------------------------------
 
-**Search Frictions in Credit Markets**  
+**Search Frictions in Credit Markets**    
 
 <span style="color: gray;"> **USC Marshall School of Business Trefftzs Award (2022) and WFA Brattle Group PhD Candidate Award for Outstanding Research (2022)** </span>  
 
