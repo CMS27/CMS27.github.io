@@ -70,7 +70,7 @@ title:
 
 **Innovate or Relocate?** <span style="color: gray;"> with [Philippe Aghion](https://www.insead.edu/faculty-research/faculty/philippe-aghion), [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco) and [David Hémous](https://www.econ.uzh.ch/en/people/faculty/hemous.html).</span>
 
-**Some don't like it hot: bank depositors and NGO campaigns against brown banks.** <span style="color: gray;"> with [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) </span>
+**Some Don't Like it Hot: Bank Depositors and NGO Campaigns Against Brown Banks.** <span style="color: gray;"> with [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) </span>
 
 **Capturing Subsidies or Storing Carbon: Evidence from the North Sea** <span style="color: gray;"> with [Alessandro Iaria](https://sites.google.com/view/alessandro-iaria-economics), [Michele Fioretti](http://www.michelefioretti.com/), [Aljoscha Jensen](https://aljoschajanssen.com/) and [Robert K. Perrons](https://www.qut.edu.au/about/our-people/academic-profiles/robert.perrons)</span>
  
