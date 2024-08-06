@@ -49,6 +49,9 @@ title:
 
 <a href="https://publications.banque-france.fr/en/bank-local-specialization" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a>
 
+**Some Don't Like it Hot: Bank Depositors and NGO Campaigns Against Brown Banks** <span style="color: gray;"> with [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) </span>
+
+<span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : We collect novel data on NGO campaigns that target banks financing fossil fuels to build a new measure of banks’ environmental reputation. Merging with granular data on bank deposits of households in France over 2010-2020, we find that banks perceived as brown face a lower supply of sight deposits. The average depositor mostly reacts to the banks’ brown reputation after a regulatory change in February 2017 that reduced the transaction costs of changing banks. We also exploit additional data on new mortgages to show that browner banks also face a relatively lower demand for housing loans, implying lower mortgage loan rates offered to their customers. </span>
 
 **Aggregate Implications of Credit Relationship Flows: A Tale of Two Margins** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/).</span>  
 
@@ -67,10 +70,6 @@ title:
 ---------------------------------------------------------------------------------------------------------------------
 
 <!--- <br/> -->
-
-**Innovate or Relocate?** <span style="color: gray;"> with [Philippe Aghion](https://www.insead.edu/faculty-research/faculty/philippe-aghion), [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco) and [David Hémous](https://www.econ.uzh.ch/en/people/faculty/hemous.html).</span>
-
-**Some Don't Like it Hot: Bank Depositors and NGO Campaigns Against Brown Banks.** <span style="color: gray;"> with [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) </span>
 
 **Capturing Subsidies or Storing Carbon: Evidence from the North Sea** <span style="color: gray;"> with [Alessandro Iaria](https://sites.google.com/view/alessandro-iaria-economics), [Michele Fioretti](http://www.michelefioretti.com/), [Aljoscha Jensen](https://aljoschajanssen.com/) and [Robert K. Perrons](https://www.qut.edu.au/about/our-people/academic-profiles/robert.perrons)</span>
  
