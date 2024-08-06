@@ -53,7 +53,7 @@ title:
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : We collect novel data on NGO campaigns that target banks financing fossil fuels to build a new measure of banks’ environmental reputation. Merging with granular data on bank deposits of households in France over 2010-2020, we find that banks perceived as brown face a lower supply of sight deposits. The average depositor mostly reacts to the banks’ brown reputation after a regulatory change in February 2017 that reduced the transaction costs of changing banks. We also exploit additional data on new mortgages to show that browner banks also face a relatively lower demand for housing loans, implying lower mortgage loan rates offered to their customers. </span>
 
-<a href="https://sciencespo.hal.science/hal-04350378v1/file/2023_clement_mazet_sonilhac_jean_stephane_mesonnier_some_don_t_like_it_hot_bank_depositors_and_ngo_campaigns_against_fossil_banks.pdf" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a>
+<a href="https://sciencespo.hal.science/hal-04350378v1/file/2023_clement_mazet_sonilhac_jean_stephane_mesonnier_some_don_t_like_it_hot_bank_depositors_and_ngo_campaigns_against_fossil_banks.pdf" class = "btn btn-outline-success btn-sm" role = "button"> Working Paper </a>
 
 **Aggregate Implications of Credit Relationship Flows: A Tale of Two Margins** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/).</span>  
 
