@@ -4,10 +4,12 @@ title: Teaching
 ---
 
 #### Finance with Big Data (since 2022) <small class="text-muted"> - Course director </small>
-* <span style="color: gray;"> **Teaching Innovation Award (2023)** </span>
-  
-University Bocconi, Milan, Master in Data Science and Business Analytics (2nd year).   
 
+University Bocconi, Milan, Master in Data Science and Business Analytics (2nd year).  
+
+* <span style="color: gray;"> **Teaching Innovation Award (2023)** </span>
+* <span style="color: gray;"> **Course Performance Index: 9.63 and 9.40** </span>
+ 
 <a href="https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/master+of+science/data+science+and+business+analytics/" class = "btn btn-outline-warning btn-sm" role = "button"> Master's Website </a> <a href="https://www.dropbox.com/s/jpx7eqcvriecd8o/Data_PCLab1_Stock.csv?dl=0" class="btn btn-outline-success btn-sm" role = "button"> Data PC Lab </a>
 
 #### Financial Markets and Institutions (since 2022) <small class="text-muted"> - Lecturer </small>
