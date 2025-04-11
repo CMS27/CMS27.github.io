@@ -6,7 +6,7 @@ title:
 ## Publications
 ---------------------------------------------------------------------------------------------------------------------
 
-**Technology-Induced Trade Shocks? Evidence from Broadband Internet Expansion in France** <span style="color: gray;"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Thierry Mayer](https://sites.google.com/site/thierrymayer/home). </span>   
+**Technology-Induced Trade Shocks? Evidence from Broadband Internet Expansion in France** <span style="color: gray;"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Thierry Mayer](https://sites.google.com/site/thierrymayer/home) </span>   
 
 <span style="color: gray;"> ***Journal of International Economics***, Volume 133, November 2021 (Lead Article) </span>  
 
@@ -15,7 +15,7 @@ title:
 <a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13847" class = "btn btn-outline-success btn-sm" role = "button"> CEPR Working Paper </a> <a href="https://publications.banque-france.fr/en/technology-induced-trade-shocks-evidence-broadband-expansion-france" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a> <a href="https://blocnotesdeleco.banque-france.fr/en/blog-entry/broadband-internet-changes-geography-international-trade" class = "btn btn-outline-danger btn-sm" role = "button"> BdF's blog post </a>
 
 
-**Who Benefits from State Corporate Tax Cuts? A Local Labor Markets Approach with Heterogeneous Firms: Comment** <span style="color: gray;"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Thierry Mayer](https://sites.google.com/site/thierrymayer/home).</span>  
+**Who Benefits from State Corporate Tax Cuts? A Local Labor Markets Approach with Heterogeneous Firms: Comment** <span style="color: gray;"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Thierry Mayer](https://sites.google.com/site/thierrymayer/home)</span>  
 
 <span style="color: gray;"> ***American Economic Review***, Volume 113, August 2023 </span>  
 	
@@ -23,7 +23,7 @@ title:
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3721950" class = "btn btn-outline-success btn-sm" role = "button"> SSRN Paper </a>
 
-**Technological Change and Domestic Outsourcing**  <span style="color: gray;"> with [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco), [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Sara Signorelli](https://sites.google.com/view/sarasignorelli/home).</span>   
+**Technological Change and Domestic Outsourcing**  <span style="color: gray;"> with [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco), [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Sara Signorelli](https://sites.google.com/view/sarasignorelli/home)</span>   
 
 <span style="color: gray;"> ***Journal of Labor Economics***, Volume 43, No. 4, October 2025 </span>  
 
