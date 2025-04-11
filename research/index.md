@@ -49,7 +49,7 @@ title:
 
 <a href="https://sciencespo.hal.science/hal-04350378v1/file/2023_clement_mazet_sonilhac_jean_stephane_mesonnier_some_don_t_like_it_hot_bank_depositors_and_ngo_campaigns_against_fossil_banks.pdf" class = "btn btn-outline-success btn-sm" role = "button"> Working Paper </a>
 
-**The Flow Approach to Credit Markets** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/).</span>  
+**The Flow Approach to Credit Markets** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/)</span>  
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : This paper documents the aggregate properties of credit relationship flows within the commercial loan market in France between 1998 and 2018. Using detailed bank-firm level data from the French Credit Register, we show that banks actively and continuously adjust their credit supply along both intensive and extensive margins. We particularly highlight the importance of gross flows associated with credit relationships and show that they are (i) volatile and pervasive throughout the cycle, and (ii) can account for up to 48 percent of the cyclical and 90 percent of the long-run variations in aggregate bank credit. </span>
 
@@ -72,7 +72,7 @@ title:
 
 **Capturing Subsidies or Storing Carbon: Evidence from the North Sea** <span style="color: gray;"> with [Alessandro Iaria](https://sites.google.com/view/alessandro-iaria-economics), [Michele Fioretti](http://www.michelefioretti.com/), [Aljoscha Jensen](https://aljoschajanssen.com/) and [Robert K. Perrons](https://www.qut.edu.au/about/our-people/academic-profiles/robert.perrons)</span>
 
-**Credit Market Fluidity** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/).</span>
+**Credit Market Fluidity** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/)</span>
 
 ## Pre-Doctoral Publications
 ---------------------------------------------------------------------------------------------------------------------
