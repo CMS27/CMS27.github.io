@@ -55,20 +55,25 @@ title:
 
 <a href="https://publications.banque-france.fr/en/aggregate-implications-credit-relationship-flows-tale-two-margins" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a>
 
-<!---
+
 **Bank Local Specialization** <span style="color: gray;"> with [Anne Duquerroy](https://sites.google.com/site/anneduquerroy/),  [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) and [Daniel Paravisini](https://sites.google.com/site/paravisinidaniel/home).</span>
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Using micro-data on bank-SME relationships in France, we show that banks specialize locally by industry and that this specialization shapes the equilibrium amount of lending. We use the reallocation of firms’ accounts from closed branches to nearby branches of the same bank, as a source of quasi-random variation in the match between a firm’s industry and the industry of specialization of its bank. Reallocation is associated with a significant and persistent drop in credit, the magnitude of which doubles for firms transferred to a branch less specialized in their industry. </span>
 
 <a href="https://publications.banque-france.fr/en/bank-local-specialization" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a>
--->
+
+**Transferable Know-How: Evidence from the Upstream Oil & Gas Industry** <span style="color: gray;"> with [Alessandro Iaria](https://sites.google.com/view/alessandro-iaria-economics), [Michele Fioretti](http://www.michelefioretti.com/), [Aljoscha Jensen](https://aljoschajanssen.com/) and [Robert K. Perrons](https://www.qut.edu.au/about/our-people/academic-profiles/robert.perrons)</span>
+
+<span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : We investigate the consequences of the adoption of Enhanced Oil Recovery (EOR) on productivity, competition, and further technological adoption in the upstream oil & gas industry in the North Sea. Exploiting geological heterogeneity and a Norwegian Supreme Court decision that reduced policy uncertainty, we show that early EOR adopters increased their productivity and gained shares of the North Sea market through three channels. First, direct productivity gains due to EOR adoption. Second, specialization by transferring the acquired know-how to other EOR-eligible fields. Third, diversification through know-how-driven economies of scope that facilitated investments in non-EOR-eligible fields requiring alternative technologies. </span>
+
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120800" class = "btn btn-outline-success btn-sm" role = "button"> New Working Paper! </a>
 
 ## Work in Progress
 ---------------------------------------------------------------------------------------------------------------------
 
 <!--- <br/> -->
 
-**Transferable Know-How: Evidence from the Upstream Oil & Gas Industry** <span style="color: gray;"> with [Alessandro Iaria](https://sites.google.com/view/alessandro-iaria-economics), [Michele Fioretti](http://www.michelefioretti.com/), [Aljoscha Jensen](https://aljoschajanssen.com/) and [Robert K. Perrons](https://www.qut.edu.au/about/our-people/academic-profiles/robert.perrons)</span>
+**Weathering Poverty** <span style="color: gray;"> with [Clare Balboni](https://sites.google.com/view/clare-balboni/home), [Oriana Bandiera](https://www.orianabandiera.net/), [Robin Burgess](https://www.robinburgess.com/), [Anton Heil](https://www.lse.ac.uk/economics/people/research-students/anton-heil), [Yifan Wang](https://www.lse.ac.uk/economics/people/research-students/yifan-wang) and [Munshi Suleiman](https://bigd.bracu.ac.bd/staffprofile/munshi-sulaiman/)</span>
 
 **Capturing Subsidies or Storing Carbon: Evidence from the North Sea** <span style="color: gray;"> with [Alessandro Iaria](https://sites.google.com/view/alessandro-iaria-economics), [Michele Fioretti](http://www.michelefioretti.com/), [Aljoscha Jensen](https://aljoschajanssen.com/) and [Robert K. Perrons](https://www.qut.edu.au/about/our-people/academic-profiles/robert.perrons)</span>
 
