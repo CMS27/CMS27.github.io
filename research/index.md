@@ -8,7 +8,7 @@ title:
 
 **Technology-Induced Trade Shocks? Evidence from Broadband Internet Expansion in France** <span style="color: gray;"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Thierry Mayer](https://sites.google.com/site/thierrymayer/home) </span>   
 
-<span style="color: blue;"> <ins>***Journal of International Economics***</ins>, Volume 133, November 2021 (Lead Article) </span>  
+<span style="color: #3366cc;"> <ins>***Journal of International Economics***</ins>, </span> <span style="color: gray;"> Volume 133, November 2021 (Lead Article) </span>  
 
 <span style="color: gray; font-size:0.9em; line-height:1em;">**Abstract**: In this paper, we test for the presence of “technology-induced” trade in France between 2000 and 2007 and assess its impact on consumer welfare. We use the staggered roll-out of broadband internet to estimate its causal impact on the importing behavior of firms. Using an event-study design, we find that broadband expansion increases imports. Our estimates imply that the increase in the value of imports in the absence of broadband expansion would have been a 15% lower. We further find that the sub-extensive margin (number of products and sourcing country per firm) is the main margin of adjustment and that the impact is higher for capital goods. Finally, we develop a firm-based model of importing and adopt a sufficient statistics approach in order to quantify the contribution of the import-channel to the overall effect of broadband on consumer welfare. Within this model, our reduced-form estimates imply that broadband internet reduced the consumer price index by 1.7% and that the import-channel accounts for a quarter of that effect.</span>  
 
@@ -25,7 +25,7 @@ title:
 
 **Technological Change and Domestic Outsourcing**  <span style="color: gray;"> with [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco), [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Sara Signorelli](https://sites.google.com/view/sarasignorelli/home)</span>   
 
-<span style="color: gray;"> ***Journal of Labor Economics***, Volume 43, No. 4, October 2025 </span>  
+<span style="color: #3366cc;"> <ins>***Journal of Labor Economics***</ins>, </span> <span style="color: gray;"> , Volume 43, No. 4, October 2025 </span>  
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Domestic outsourcing has grown substantially in developed countries over the past two decades. While some studies document its implications for earnings inequality, very little is known regarding the drivers of this phenomenon. This paper addresses this question by studying the impact of the staggered diffusion of broadband internet on job outsourcing by French firms. We show that BI led firms to outsource some non-core occupations to service contractors, both in the low and high skill segment. In both cases, we find that employment related to these occupations become increasingly concentrated in firms specializing in these activities, and less likely to become performed in-house within firms specialized in other activities. Finally, we provide suggestive evidence that high-skill workers experience salary gains from being outsourced, while low-skill workers lose. </span>
 
