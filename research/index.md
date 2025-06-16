@@ -17,7 +17,7 @@ title:
 
 **Who Benefits from State Corporate Tax Cuts? A Local Labor Markets Approach with Heterogeneous Firms: Comment** <span style="color: gray;"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Thierry Mayer](https://sites.google.com/site/thierrymayer/home)</span>  
 
-<span style="color:  #3366cc;"> <ins>***American Economic Review***</ins>, </span> <span style="color: gray;"> Volume 113, August 2023 </span>  
+<span style="color:   #2e86c1;"> <ins>***American Economic Review***</ins>, </span> <span style="color: gray;"> Volume 113, August 2023 </span>  
 	
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Suárez-Serrato and Zidar (2016) identify state corporate tax incidence in a spatial equilibrium model with imperfectly mobile firms. Their identification argument rests on comparative-statics omitting a channel implied by their model: the link between common determinants of a location’s attractiveness and the average idiosyncratic productivity of firms choosing that location. This compositional margin causes the labor demand elasticity to be independent from the product demand elasticity, impeding the identification of incidence from reduced-form estimates. Assigning consensual values to the unidentified parameters, we find that the incidence share born by firm-owners is closer to 25% than the 40% initially reported. </span>
 
@@ -25,7 +25,7 @@ title:
 
 **Technological Change and Domestic Outsourcing**  <span style="color: gray;"> with [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco), [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Sara Signorelli](https://sites.google.com/view/sarasignorelli/home)</span>   
 
-<span style="color: #3366cc;"> <ins>***Journal of Labor Economics***</ins>, </span> <span style="color: gray;"> , Volume 43, No. 4, October 2025 </span>  
+<span style="color:  #2e86c1;"> <ins>***Journal of Labor Economics***</ins>, </span> <span style="color: gray;"> , Volume 43, No. 4, October 2025 </span>  
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Domestic outsourcing has grown substantially in developed countries over the past two decades. While some studies document its implications for earnings inequality, very little is known regarding the drivers of this phenomenon. This paper addresses this question by studying the impact of the staggered diffusion of broadband internet on job outsourcing by French firms. We show that BI led firms to outsource some non-core occupations to service contractors, both in the low and high skill segment. In both cases, we find that employment related to these occupations become increasingly concentrated in firms specializing in these activities, and less likely to become performed in-house within firms specialized in other activities. Finally, we provide suggestive evidence that high-skill workers experience salary gains from being outsourced, while low-skill workers lose. </span>
 
@@ -50,6 +50,8 @@ title:
 <a href="https://sciencespo.hal.science/hal-04350378v1/file/2023_clement_mazet_sonilhac_jean_stephane_mesonnier_some_don_t_like_it_hot_bank_depositors_and_ngo_campaigns_against_fossil_banks.pdf" class = "btn btn-outline-success btn-sm" role = "button"> Working Paper </a>
 
 **The Flow Approach to Credit Markets** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/)</span>  
+
+<span style="color:  #2e86c1;"> Revise & Resubmit at ***American Economic Journal: Macroeconomics***</span> 
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : This paper documents the aggregate properties of credit relationship flows within the commercial loan market in France between 1998 and 2018. Using detailed bank-firm level data from the French Credit Register, we show that banks actively and continuously adjust their credit supply along both intensive and extensive margins. We particularly highlight the importance of gross flows associated with credit relationships and show that they are (i) volatile and pervasive throughout the cycle, and (ii) can account for up to 48 percent of the cyclical and 90 percent of the long-run variations in aggregate bank credit. </span>
 
