@@ -8,7 +8,7 @@ title:
 
 **Technology-Induced Trade Shocks? Evidence from Broadband Internet Expansion in France** <span style="color: gray;"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Thierry Mayer](https://sites.google.com/site/thierrymayer/home) </span>   
 
-* <span style="color: gray;"> <ins>***Journal of International Economics***</ins>, </span> <span style="color: gray;"> Volume 133, November 2021 (Lead Article) </span>  
+* <span style="color: #32849c;"> <ins>***Journal of International Economics***</ins>, </span> <span style="color: gray;"> Volume 133, November 2021 (Lead Article) </span>  
 
 <span style="color: gray; font-size:0.9em; line-height:1em;">**Abstract**: In this paper, we test for the presence of “technology-induced” trade in France between 2000 and 2007 and assess its impact on consumer welfare. We use the staggered roll-out of broadband internet to estimate its causal impact on the importing behavior of firms. Using an event-study design, we find that broadband expansion increases imports. Our estimates imply that the increase in the value of imports in the absence of broadband expansion would have been a 15% lower. We further find that the sub-extensive margin (number of products and sourcing country per firm) is the main margin of adjustment and that the impact is higher for capital goods. Finally, we develop a firm-based model of importing and adopt a sufficient statistics approach in order to quantify the contribution of the import-channel to the overall effect of broadband on consumer welfare. Within this model, our reduced-form estimates imply that broadband internet reduced the consumer price index by 1.7% and that the import-channel accounts for a quarter of that effect.</span>  
 
@@ -17,7 +17,7 @@ title:
 
 **Who Benefits from State Corporate Tax Cuts? A Local Labor Markets Approach with Heterogeneous Firms: Comment** <span style="color: gray;"> with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Thierry Mayer](https://sites.google.com/site/thierrymayer/home)</span>  
 
-* <span style="color:   gray;"> <ins>***American Economic Review***</ins>, </span> <span style="color: gray;"> Volume 113, August 2023 </span>  
+* <span style="color: #32849c;"> <ins>***American Economic Review***</ins>, </span> <span style="color: gray;"> Volume 113, August 2023 </span>  
 	
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Suárez-Serrato and Zidar (2016) identify state corporate tax incidence in a spatial equilibrium model with imperfectly mobile firms. Their identification argument rests on comparative-statics omitting a channel implied by their model: the link between common determinants of a location’s attractiveness and the average idiosyncratic productivity of firms choosing that location. This compositional margin causes the labor demand elasticity to be independent from the product demand elasticity, impeding the identification of incidence from reduced-form estimates. Assigning consensual values to the unidentified parameters, we find that the incidence share born by firm-owners is closer to 25% than the 40% initially reported. </span>
 
@@ -25,7 +25,7 @@ title:
 
 **Technological Change and Domestic Outsourcing**  <span style="color: gray;"> with [Antonin Bergeaud](https://sites.google.com/site/abergeaudeco), [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Sara Signorelli](https://sites.google.com/view/sarasignorelli/home)</span>   
 
-* <span style="color:  gray;"> <ins>***Journal of Labor Economics***</ins>, </span> <span style="color: gray;">Volume 43, No. 4, October 2025 </span>  
+* <span style="color:  #32849c;"> <ins>***Journal of Labor Economics***</ins>, </span> <span style="color: gray;">Volume 43, No. 4, October 2025 </span>  
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : Domestic outsourcing has grown substantially in developed countries over the past two decades. While some studies document its implications for earnings inequality, very little is known regarding the drivers of this phenomenon. This paper addresses this question by studying the impact of the staggered diffusion of broadband internet on job outsourcing by French firms. We show that BI led firms to outsource some non-core occupations to service contractors, both in the low and high skill segment. In both cases, we find that employment related to these occupations become increasingly concentrated in firms specializing in these activities, and less likely to become performed in-house within firms specialized in other activities. Finally, we provide suggestive evidence that high-skill workers experience salary gains from being outsourced, while low-skill workers lose. </span>
 
@@ -45,7 +45,7 @@ title:
 
 **The Flow Approach to Credit Markets** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/)</span>  
 
-* <span style="color: gray;"> Revise & Resubmit at <ins>***American Economic Journal: Macroeconomics***</ins></span> 
+* <span style="color: gray;"> Revise & Resubmit at</span> <span style="color: #32849c;"><ins>***American Economic Journal: Macroeconomics***</ins></span> 
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : This paper documents the aggregate properties of credit relationship flows within the commercial loan market in France between 1998 and 2018. Using detailed bank-firm level data from the French Credit Register, we show that banks actively and continuously adjust their credit supply along both intensive and extensive margins. We particularly highlight the importance of gross flows associated with credit relationships and show that they are (i) volatile and pervasive throughout the cycle, and (ii) can account for up to 48 percent of the cyclical and 90 percent of the long-run variations in aggregate bank credit. </span>
 
