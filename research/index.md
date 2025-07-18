@@ -49,7 +49,7 @@ title:
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : We provide empirical foundations for a flow approach to credit markets and derive novel extensive/intensive margin decompositions for aggregate credit dynamics. Using bank-firm level data for commercial lending in France, we establish that credit relationship creation and destruction flows are (i) one order of magnitude larger than net flows, and (ii) volatile and pervasive throughout the cycle. Loan portfolios are actively adjusted along the extensive margin, which (iii) contributes up to 46\% of the cyclical and 90\% of the long-run credit variations. We also document that recent recessions were subject to distinct margin dynamics and show how the extensive/intensive nature of credit contractions shapes subsequent recovery paths. Our findings highlight the prominent role of both margins in the analysis of credit cycle fluctuations and the design of effective policy responses to crises. </span>
 
-<a href="https://publications.banque-france.fr/en/aggregate-implications-credit-relationship-flows-tale-two-margins" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a>
+<a href="https://www.dropbox.com/scl/fi/9ae29mb0qbrj64fz9xl9x/TheFlowApproach_BMS_July2025.pdf?rlkey=rzz1huxlrabbaz0q25h1jizwl&st=cphagev4&dl=0" class = "btn btn-outline-success btn-sm" role = "button"> New Version! </a>
 
 **Some Don't Like it Hot: Bank Depositors and NGO Campaigns Against Brown Banks** <span style="color: gray;"> with [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) </span>
 
