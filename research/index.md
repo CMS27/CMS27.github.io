@@ -78,6 +78,8 @@ title:
 
 **Capturing Subsidies or Storing Carbon: Evidence from the North Sea** <span style="color: gray;"> with [Alessandro Iaria](https://sites.google.com/view/alessandro-iaria-economics), [Michele Fioretti](http://www.michelefioretti.com/), [Aljoscha Jensen](https://aljoschajanssen.com/) and [Robert K. Perrons](https://www.qut.edu.au/about/our-people/academic-profiles/robert.perrons)</span>
 
+**Silent Discrimination: The Unequal Voice of AI in Banking**
+
 **Credit Market Fluidity** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/)</span>
 
 ## Pre-Doctoral Publications
