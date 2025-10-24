@@ -82,7 +82,7 @@ title:
 
 **Silent Discrimination: The Unequal Voice of AI in Banking**
 
-**Silent Discrimination: The Unequal Voice of AI in Banking** <span style="color: gray;"> with [Antonin Bergeaud]([https://sites.google.com/view/alessandro-iaria-economics](https://sites.google.com/site/abergeaudeco)) and [Philippe Aghion](https://www.philippeaghion.com/)</span>
+**Artificial Intelligence and the Boundary of the Firm** <span style="color: gray;"> with [Antonin Bergeaud]([https://sites.google.com/view/alessandro-iaria-economics](https://sites.google.com/site/abergeaudeco)) and [Philippe Aghion](https://www.philippeaghion.com/)</span>
 
 
 **Credit Market Fluidity** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/)</span>
