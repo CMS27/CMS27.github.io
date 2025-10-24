@@ -63,7 +63,7 @@ title:
 
 <a href="https://publications.banque-france.fr/en/bank-local-specialization" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a>
 
-**Transferable Know-How: Evidence from the Upstream Oil & Gas Industry** <span style="color: gray;"> with [Alessandro Iaria](https://sites.google.com/view/alessandro-iaria-economics), [Michele Fioretti](http://www.michelefioretti.com/), [Aljoscha Jensen](https://aljoschajanssen.com/) and [Robert K. Perrons](https://www.qut.edu.au/about/our-people/academic-profiles/robert.perrons)</span>
+**Transferable Know-How: Evidence from the Upstream Oil & Gas Industry** <span style="color: gray;"> with [Alessandro Iaria](https://sites.google.com/view/alessandro-iaria-economics), [Michele Fioretti](http://www.michelefioretti.com/), [Aljoscha Janssen](https://aljoschajanssen.com/) and [Robert K. Perrons](https://www.qut.edu.au/about/our-people/academic-profiles/robert.perrons)</span>
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : We investigate the consequences of the adoption of Enhanced Oil Recovery (EOR) on productivity, competition, and further technological adoption in the upstream oil & gas industry in the North Sea. Exploiting geological heterogeneity and a Norwegian Supreme Court decision that reduced policy uncertainty, we show that early EOR adopters increased their productivity and gained shares of the North Sea market through three channels. First, direct productivity gains due to EOR adoption. Second, specialization by transferring the acquired know-how to other EOR-eligible fields. Third, diversification through know-how-driven economies of scope that facilitated investments in non-EOR-eligible fields requiring alternative technologies. </span>
 
@@ -74,11 +74,11 @@ title:
 
 <!--- <br/> -->
 
-**Weathering Poverty** <span style="color: gray;"> with [Clare Balboni](https://sites.google.com/view/clare-balboni/home), [Oriana Bandiera](https://www.orianabandiera.net/), [Robin Burgess](https://www.robinburgess.com/), [Anton Heil](https://www.lse.ac.uk/economics/people/research-students/anton-heil), [Yifan Wang](https://www.lse.ac.uk/economics/people/research-students/yifan-wang) and [Munshi Suleiman](https://bigd.bracu.ac.bd/staffprofile/munshi-sulaiman/)</span>
+**Weathering Poverty** <span style="color: gray;"> with [C. Balboni](https://sites.google.com/view/clare-balboni/home), [O. Bandiera](https://www.orianabandiera.net/), [R. Burgess](https://www.robinburgess.com/), [A. Heil](https://www.lse.ac.uk/economics/people/research-students/anton-heil), [Y. Wang](https://www.lse.ac.uk/economics/people/research-students/yifan-wang) and [M. Suleiman](https://bigd.bracu.ac.bd/staffprofile/munshi-sulaiman/)</span>
 
 **The Poor Among the Rich: Evidence from NGO Data**
 
-**Capturing Subsidies or Storing Carbon: Evidence from the North Sea** <span style="color: gray;"> with [Alessandro Iaria](https://sites.google.com/view/alessandro-iaria-economics), [Michele Fioretti](http://www.michelefioretti.com/), [Aljoscha Jensen](https://aljoschajanssen.com/) and [Robert K. Perrons](https://www.qut.edu.au/about/our-people/academic-profiles/robert.perrons)</span>
+**Capturing Subsidies or Storing Carbon: Evidence from the North Sea** <span style="color: gray;"> with [A. Iaria](https://sites.google.com/view/alessandro-iaria-economics), [M. Fioretti](http://www.michelefioretti.com/), [A. Janssen](https://aljoschajanssen.com/)</span>
 
 **Silent Discrimination: The Unequal Voice of AI in Banking**
 
