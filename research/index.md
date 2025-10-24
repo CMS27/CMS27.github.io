@@ -76,7 +76,7 @@ title:
 
 **Weathering Poverty** <span style="color: gray;"> with [Clare Balboni](https://sites.google.com/view/clare-balboni/home), [Oriana Bandiera](https://www.orianabandiera.net/), [Robin Burgess](https://www.robinburgess.com/), [Anton Heil](https://www.lse.ac.uk/economics/people/research-students/anton-heil), [Yifan Wang](https://www.lse.ac.uk/economics/people/research-students/yifan-wang) and [Munshi Suleiman](https://bigd.bracu.ac.bd/staffprofile/munshi-sulaiman/)</span>
 
-**The Poor Among the Rich: Evidence from France**
+**The Poor Among the Rich: Evidence from NGO data**
 
 **Capturing Subsidies or Storing Carbon: Evidence from the North Sea** <span style="color: gray;"> with [Alessandro Iaria](https://sites.google.com/view/alessandro-iaria-economics), [Michele Fioretti](http://www.michelefioretti.com/), [Aljoscha Jensen](https://aljoschajanssen.com/) and [Robert K. Perrons](https://www.qut.edu.au/about/our-people/academic-profiles/robert.perrons)</span>
 
