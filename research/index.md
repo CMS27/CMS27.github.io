@@ -51,7 +51,7 @@ title:
 
 <a href="https://www.dropbox.com/scl/fi/9ae29mb0qbrj64fz9xl9x/TheFlowApproach_BMS_July2025.pdf?rlkey=rzz1huxlrabbaz0q25h1jizwl&st=cphagev4&dl=0" class = "btn btn-outline-success btn-sm" role = "button"> New Version! </a>
 
-**Climate-Conscious Bank Custumers** <span style="color: gray;"> with [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) </span>
+**Climate-Conscious Bank Customers** <span style="color: gray;"> with [Jean-Stéphane Mésonnier](http://jsmeson.pagesperso-orange.fr/) </span>
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : We collect novel data on NGO campaigns that target banks financing fossil fuels to build a new measure of banks’ environmental reputation. Merging with granular data on bank deposits of households in France over 2010-2020, we find that banks perceived as brown face a lower supply of sight deposits. The average depositor mostly reacts to the banks’ brown reputation after a regulatory change in February 2017 that reduced the transaction costs of changing banks. We also exploit additional data on new mortgages to show that browner banks also face a relatively lower demand for housing loans, implying lower mortgage loan rates offered to their customers. Previous title: Some Don't Like it Hot: Bank Depositors and NGO Campaigns Against Brown Banks</span>
 
