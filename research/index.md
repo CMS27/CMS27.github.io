@@ -74,7 +74,7 @@ title:
 
 <!--- <br/> -->
 
-**Silent Discrimination: The Unequal Voice of AI in Banking**
+**AI Adoption and the Quality of Financial Services**
 
 **Artificial Intelligence and the Boundary of the Firm** <span style="color: gray;"> with [Antonin Bergeaud]([https://sites.google.com/view/alessandro-iaria-economics](https://sites.google.com/site/abergeaudeco)) and [Philippe Aghion](https://www.philippeaghion.com/)</span>
 
