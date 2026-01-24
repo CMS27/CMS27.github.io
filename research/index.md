@@ -74,7 +74,7 @@ title:
 
 <!--- <br/> -->
 
-**AI Adoption and the Quality of Financial Services**
+**AI Adoption and the Quality of Financial Services** with Dirk Hovy
 
 **Artificial Intelligence and the Boundary of the Firm** <span style="color: gray;"> with [Antonin Bergeaud]([https://sites.google.com/view/alessandro-iaria-economics](https://sites.google.com/site/abergeaudeco)) and [Philippe Aghion](https://www.philippeaghion.com/)</span>
 
