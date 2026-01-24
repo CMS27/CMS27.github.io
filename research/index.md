@@ -78,15 +78,19 @@ title:
 
 **Artificial Intelligence and the Boundary of the Firm** <span style="color: gray;"> with [Antonin Bergeaud]([https://sites.google.com/view/alessandro-iaria-economics](https://sites.google.com/site/abergeaudeco)) and [Philippe Aghion](https://www.philippeaghion.com/)</span>
 
+**Expectations in Extreme Poverty: Evidence from Machine Learning–Based Measurement**
+
 **Credit Market Fluidity** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/)</span>
 
 **Weathering Poverty** <span style="color: gray;"> with [C. Balboni](https://sites.google.com/view/clare-balboni/home), [O. Bandiera](https://www.orianabandiera.net/), [R. Burgess](https://www.robinburgess.com/), [A. Heil](https://www.lse.ac.uk/economics/people/research-students/anton-heil), [Y. Wang](https://www.lse.ac.uk/economics/people/research-students/yifan-wang) and [M. Suleiman](https://bigd.bracu.ac.bd/staffprofile/munshi-sulaiman/)</span>
+
+Capturing Subsidies or Storing Carbon: Evidence from the North Sea** <span style="color: gray;"> with [A. Iaria](https://sites.google.com/view/alessandro-iaria-economics), [M. Fioretti](http://www.michelefioretti.com/), [A. Janssen](https://aljoschajanssen.com/)
 
 
 <!--- 
   **The Poor Among the Rich: Evidence from NGO Data**
 
-**Capturing Subsidies or Storing Carbon: Evidence from the North Sea** <span style="color: gray;"> with [A. Iaria](https://sites.google.com/view/alessandro-iaria-economics), [M. Fioretti](http://www.michelefioretti.com/), [A. Janssen](https://aljoschajanssen.com/)</span> Comments are Fun --->
+**</span> Comments are Fun --->
 
 
 
