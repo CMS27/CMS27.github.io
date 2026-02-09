@@ -14,7 +14,7 @@ previousy, i worked as a research economist at [banque de france](https://www.ba
 and i visited [mit sloan](https://mitsloan.mit.edu/faculty/academic-groups/finance/about-us) in fall 2022 \
 i received my phd from [sciencespo, paris](http://econ.sciences-po.fr/faculty-permanent-faculty) under the supervision of [thomas chaney](https://sites.google.com/site/thomaschaney/) in 2021
 
-my research spans two main areas: **technological change** and **financial intermediation**. I blend applied econometrics, structural modeling, and **AI methods** to study topics related to innovation, climate change, as well as poverty reduction.
+My research examines how **technological change**, particularly advances in **artificial intelligence**, transforms firms, financial intermediation, and labor markets, with applications to innovation, discrimination, and poverty reduction.
 [learn more about my research](/research)
 
 <!---  ### Research --->
