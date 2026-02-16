@@ -3,6 +3,11 @@ layout: page
 title: Teaching
 ---
 
+<p style="text-align: center;">I GIOVANI NON HANNO BISOGNO DI SERMONI, I GIOVANI HANNO BISOGNO DI ESEMPI DI ONESTÀ, DI COERENZA E DI ALTRUISMO.</p>
+
+
+
+
 #### Finance with AI (since 2022) <small class="text-muted"> - Course director </small>
 
 University Bocconi, Milan, Master in Data Science and Business Analytics (2nd year).  
