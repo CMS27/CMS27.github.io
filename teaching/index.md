@@ -3,10 +3,6 @@ layout: page
 title: Teaching
 ---
 
-<p style="text-align: center;">I GIOVANI NON HANNO BISOGNO DI SERMONI, I GIOVANI HANNO BISOGNO DI ESEMPI DI ONESTÀ, DI COERENZA E DI ALTRUISMO.</p>
-
-
-
 
 #### Finance with AI (since 2022) <small class="text-muted"> - Course director </small>
 
@@ -58,4 +54,8 @@ _Prof_: [Pascal da Costa](https://scholar.google.fr/citations?user=TVsjYcRrvDEC&
 #### Evaluation of Public Policies (2017-2018) 
 
 SciencesPo, Paris, Master in Public Policy.   
-_Prof_: [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/)
+_Prof_: [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/) \ \
+
+
+<p style="text-align: center;">I GIOVANI NON HANNO BISOGNO DI SERMONI, I GIOVANI HANNO BISOGNO DI ESEMPI DI ONESTÀ, DI COERENZA E DI ALTRUISMO.</p>
+
