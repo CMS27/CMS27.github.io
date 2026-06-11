@@ -5,7 +5,7 @@ title: Clément Mazet-Sonilhac
 
 <!--- ### Presentation --->
 
-<img src="/pictures/for_github.jpg"
+<img src="/picture/for_github.jpg"
      alt="Clément Mazet-Sonilhac"
      style="width:240px !important; height:240px !important; max-width:240px; object-fit:cover; object-position:center; border-radius:50%; float:left; margin-right:28px; margin-bottom:16px; display:block;">
      
