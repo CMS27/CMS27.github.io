@@ -5,7 +5,7 @@ title: Clément Mazet-Sonilhac
 
 <!--- ### Presentation --->
 
-<img src="/picture/Iran.JPG"
+<img src="/photo_id_iran.jpg"
      alt="Clément Mazet-Sonilhac"
      style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; float: left; margin-right: 24px; margin-bottom: 12px;">
      
