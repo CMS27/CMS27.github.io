@@ -5,7 +5,10 @@ title: Clément Mazet-Sonilhac
 
 <!--- ### Presentation --->
 
-
+<img src="/picture/Iran.JPG"
+     alt="Clément Mazet-Sonilhac"
+     style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; float: left; margin-right: 24px; margin-bottom: 12px;">
+     
 hello! my name is clément mazet-sonilhac
 
 i am an assistant professor at [bocconi university](https://finance.unibocconi.eu/people) and associate researcher at collège de france [economics of innovation lab](https://www.college-de-france.fr/site/en-economics-innovation-lab/Clement-Mazet-Sonilhac.htm) and [igier](http://www.igier.unibocconi.it/)
