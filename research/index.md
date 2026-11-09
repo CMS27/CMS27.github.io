@@ -63,7 +63,12 @@ title:
 
 <!--- <a href="https://publications.banque-france.fr/en/bank-local-specialization" class = "btn btn-outline-success btn-sm" role = "button"> BdF Working Paper </a> -->
 
+
 **Weathering Poverty** <span style="color: gray;"> with [C. Balboni](https://sites.google.com/view/clare-balboni/home), [O. Bandiera](https://www.orianabandiera.net/), [R. Burgess](https://www.robinburgess.com/), [A. Heil](https://www.lse.ac.uk/economics/people/research-students/anton-heil), [Y. Wang](https://www.lse.ac.uk/economics/people/research-students/yifan-wang) and [M. Suleiman](https://bigd.bracu.ac.bd/staffprofile/munshi-sulaiman/)</span>
+
+<span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : The global overlap between poverty and climate damages raises the question of how poverty shapes responses to weather shocks. To examine the causal mechanisms that link individual poverty to climate vulnerability, this paper exploits two independent sources of variation: the randomized roll-out of BRAC's graduation program in Bangladesh, which generates variation in the incidence of extreme poverty, and high-resolution satellite images, which allow us to identify unpredictable variation in floods and droughts. We find that poverty shapes adaptation to these shocks via asset and labor market channels. The poorest households draw down savings, liquidate assets, and sacrifice consumption. In contrast, households randomly lifted out of poverty diversify sources of earnings, rely on more resilient income sources, and protect their wages from less resilient sources by landowners’ more limited ability to pass through shocks.</span>
+
+
 
 <!---<span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : We investigate the consequences of the adoption of Enhanced Oil Recovery (EOR) on productivity, competition, and further technological adoption in the upstream oil & gas industry in the North Sea. Exploiting geological heterogeneity and a Norwegian Supreme Court decision that reduced policy uncertainty, we show that early EOR adopters increased their productivity and gained shares of the North Sea market through three channels. First, direct productivity gains due to EOR adoption. Second, specialization by transferring the acquired know-how to other EOR-eligible fields. Third, diversification through know-how-driven economies of scope that facilitated investments in non-EOR-eligible fields requiring alternative technologies. </span>
 
