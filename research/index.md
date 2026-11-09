@@ -45,7 +45,7 @@ title:
 
 **The Flow Approach to Credit Markets** <span style="color: gray;"> with [Yasser Boualam](http://www.yasserboualam.com/)</span>  
 
-* <span style="color: gray;"> Conditionally accepted at</span> <span style="color: gray;"><ins>***American Economic Journal: Macroeconomics***</ins></span> 
+* <span style="color: gray;"> <ins>***American Economic Journal: Macroeconomics***</ins>, </span> <span style="color: gray;">Conditionally accepted</span>  
 
 <span style="color: gray; font-size:0.9em; line-height:1em;"> **Abstract** : We provide empirical foundations for a flow approach to credit markets and derive novel extensive/intensive margin decompositions for aggregate credit dynamics. Using bank-firm level data for commercial lending in France, we establish that credit relationship creation and destruction flows are (i) one order of magnitude larger than net flows, and (ii) volatile and pervasive throughout the cycle. Loan portfolios are actively adjusted along the extensive margin, which (iii) contributes up to 46\% of the cyclical and 90\% of the long-run credit variations. We also document that recent recessions were subject to distinct margin dynamics and show how the extensive/intensive nature of credit contractions shapes subsequent recovery paths. Our findings highlight the prominent role of both margins in the analysis of credit cycle fluctuations and the design of effective policy responses to crises. </span>
 
